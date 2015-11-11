@@ -1,0 +1,49 @@
+# This is the configuration used to check the rubocop source code.
+# See http://www.rubydoc.info/gems/rubocop/index for a list of cops (rules)
+#inherit_from: .rubocop_todo.yml
+
+AllCops:
+  Exclude:
+    - 'vendor/**/*'
+    - 'spec/fixtures/**/*'
+
+Style/Encoding:
+  Enabled: true
+
+# double vs single quotes in strings
+Style/StringLiterals:
+  Enabled: true
+
+# UTF-8 encoding comment missing
+Style/Encoding:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 120
+  Enabled: false
+
+Metrics/MethodLength:
+  Enabled: false
+
+Metrics/ClassLength:
+  Enabled: false
+
+Style/SpaceInsideParens:
+    Enabled: false
+
+Style/SpaceAfterComma:
+    Enabled: true
+
+Style/HashSyntax:
+    Enabled: false
+
+Style/WordArray:
+    Enabled: false
+
+# sometimes necessary for ERB templates
+Lint/UselessAssignment:
+    Enabled: false
+    Severity: error
+
+Lint/ShadowingOuterLocalVariable:
+    Severity: error
