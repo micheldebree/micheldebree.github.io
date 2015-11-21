@@ -60,8 +60,6 @@ figcaption {
     font-size: $small-font-size;
 }
 
-
-
 /**
  * Lists
  */
@@ -75,17 +73,13 @@ li {
          margin-bottom: 0;
     }
 }
-
-
-
 /**
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: $base-font-weight;
+    font-family: $title-font-family;
 }
-
-
 
 /**
  * Links
@@ -103,8 +97,6 @@ a {
         text-decoration: underline;
     }
 }
-
-
 
 /**
  * Blockquotes

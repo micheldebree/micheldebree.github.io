@@ -2,9 +2,14 @@
 layout: default
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
+<div class="jumbotron">
+  <div class="container">
+    <p>I am a freelance software developer with 20+ years of full-stack experience who thrives on working on challenging agile projects as part of a multi-disciplinary team.</p>
+    <p>My technical experience ranges a full development stack. From developing service-oriented JEE applications, to implementing a REST API driven Angular.JS frontend and provisioning a Linux application platform.</p>
+    <p>I prefer to work on a project in a multi-disciplinary, self-directing team with a clear focus on the business case and in close collaboration with the stakeholders.
+    For details, see my cv on LinkedIn.</p>
+  </div>
+</div>
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -18,6 +23,4 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+  <!--p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p-->
