@@ -3,21 +3,16 @@ layout: default
 ---
 
 <div class="jumbotron">
-  <div class="container">
-
+  <div class="container text-center">
+    <img class="img-responsive center-block" src="images/M.png"></img>
+    <h1>Michel de Bree</h1>
+    <h2>Freelance Java EE Developer</h2>
+    <p>I am a freelance software developer with 20+ years of experience who thrives on working on challenging agile projects as part of a multi-disciplinary team.</p>
+    <a href="http://nl.linkedin.com/in/micheldebree">linkedin</a>
+    <a href="http://github.com/micheldebree">github</a>
+    <a href="mailto:michel@micheldebree.nl">e-mail</a>
   </div>
 </div>
+<div class="container text-center">
 
-  <ul>
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <!--p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p-->
+</div>
