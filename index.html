@@ -4,13 +4,14 @@ layout: default
 
 <div class="jumbotron">
   <div class="container text-center">
-    <img class="img-responsive center-block" src="images/M.png"></img>
+    {% include logo.html %}
     <h1>Michel de Bree</h1>
     <h2>Freelance Java EE Developer</h2>
     <p>I am a freelance software developer with 20+ years of experience who thrives on working on challenging agile projects as part of a multi-disciplinary team.</p>
-    <a href="http://nl.linkedin.com/in/micheldebree">linkedin</a>
-    <a href="http://github.com/micheldebree">github</a>
-    <a href="mailto:michel@micheldebree.nl">e-mail</a>
+    {% include icon-linkedin.html username="micheldebree" %}
+    {% include icon-github.html username="micheldebree" %}
+    {% include icon-twitter.html username="micheldebree" %}
+    {% include icon-email.html username="michel@micheldebree.nl" %}
   </div>
 </div>
 <div class="container text-center">
