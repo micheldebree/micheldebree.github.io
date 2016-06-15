@@ -1,6 +1,6 @@
 # micheldebree.nl
 
-Sourcecode of my personal website.
+Sourcecode of my business website.
 
 Simplest way to setup a development environment:
 - install [Vagrant]
