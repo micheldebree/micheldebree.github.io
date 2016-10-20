@@ -5,26 +5,33 @@
  .logo {
    > svg {
        display: inline-block;
-       width: 33%;
-       height: 33%;
+       width: 25%;
+       height: 25%;
        vertical-align: middle;
-
-       path {
-          //  fill: $brand-color;
-       }
    }
  }
  
 .icon {
-
     > svg {
         display: inline-block;
         width: 32px;
         height: 32px;
         vertical-align: middle;
-
         path {
             fill: $grey-color;
         }
     }
+}
+
+.main {
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+html, body {
+    background-color: $background-color;
+    font-family: $base-font-family;
+    font-size: $base-font-size;
 }
