@@ -12,13 +12,11 @@ $title-font-family: "Lato", sans-serif;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$quote-font-family: "Lora:400italic", Georgia, serif;
-
 $spacing-unit:     30px;
 
 $text-color:       #111;
-$background-color: #f8f8f8;
-$brand-color:      #c00000;
+$background-color: #f0f0f0;
+$brand-color:      #c00020;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -27,6 +25,4 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "bootstrap",
-        "base",
-        "layout",
-        "syntax-highlighting";
+        "base"

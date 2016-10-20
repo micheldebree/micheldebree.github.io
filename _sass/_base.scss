@@ -8,6 +8,9 @@
        width: 25%;
        height: 25%;
        vertical-align: middle;
+       path {
+           fill: $brand-color;
+       }
    }
  }
  
@@ -18,7 +21,7 @@
         height: 32px;
         vertical-align: middle;
         path {
-            fill: $grey-color;
+            fill: $brand-color;
         }
     }
 }
