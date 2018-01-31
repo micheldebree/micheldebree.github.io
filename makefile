@@ -1,5 +1,5 @@
 JEKYLL_VERSION=3.5
-JEKYLL=docker run --rm --volume="$$PWD:/srv/jekyll" -it jekyll/minimal:$(JEKYLL_VERSION) jekyll
+JEKYLL=docker run --rm --volume="$$PWD:/srv/jekyll" -it -p 4000:4000 jekyll/minimal:$(JEKYLL_VERSION) jekyll
 DEBUG=docker run --rm --volume="$$PWD:/srv/jekyll" -it jekyll/minimal:$(JEKYLL_VERSION) /bin/bash
 
 build:
