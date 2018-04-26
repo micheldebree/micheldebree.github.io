@@ -20,3 +20,5 @@ github_username:  micheldebree
 
 # Build settings
 markdown: kramdown
+sass:
+  style: compressed

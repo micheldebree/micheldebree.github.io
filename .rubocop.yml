@@ -7,9 +7,6 @@ AllCops:
     - 'vendor/**/*'
     - 'spec/fixtures/**/*'
 
-Style/Encoding:
-  Enabled: true
-
 # double vs single quotes in strings
 Style/StringLiterals:
   Enabled: true
