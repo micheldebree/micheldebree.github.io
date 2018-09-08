@@ -8,13 +8,13 @@
 # Site settings
 title: Michel de Bree
 email: michel@micheldebree.nl
-tagline: Full-stack JEE developer
+tagline: Freelance Java EE/Full Stack Developer
 description: > # this means to ignore newlines until "baseurl:"
   I am a freelance software developer with 20+ years of full-stack experience who thrives
   on working on challenging agile projects in a multi-disciplinary team.
 host: 0.0.0.0
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://micheldebree.nl" # the base hostname & protocol for your site
+url: "https://www.micheldebree.nl" # the base hostname & protocol for your site
 twitter_username: micheldebree
 github_username:  micheldebree
 

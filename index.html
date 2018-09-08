@@ -3,11 +3,11 @@ layout: default
 ---
 <div class="container-fluid text-center main">
   {% include logo.html %}
-  <h1>Michel de Bree</h1>
-  <h3>Freelance Java EE/Full Stack Developer</h3>
+  <h1>{{ site.title }}</h1>
+  <h3>{{ site.tagline }}</h3>
   <p>independent, experienced and agile</p>
-  <p><a class="btn btn-primary" href="https://github.com/micheldebree/cv/blob/master/README.md">Curriculum Vitae</a>
-  <a class="btn btn-primary" href="mailto:michel@micheldebree.nl">michel@micheldebree.nl</a></p>
+  <p><a class="btn btn-primary" href="https://github.com/micheldebree/cv/blob/master/README.md#michel-de-bree">Curriculum Vitae</a>
+  <a class="btn btn-primary" href="mailto:{{ site.email }}">michel@micheldebree.nl</a></p>
   <p><a href="tel:+31681473884">+31 681 473 884</a></p>
   {% include icon-linkedin.html username="micheldebree" %}
   {% include icon-github.html username="micheldebree" %}

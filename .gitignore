@@ -4,3 +4,4 @@ _site
 .vagrant
 .tags
 node_modules
+*.swp
