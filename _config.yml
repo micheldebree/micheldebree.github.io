@@ -8,8 +8,8 @@
 # Site settings
 title: Michel de Bree
 email: michel@micheldebree.nl
-tagline: Java Developer
-description: independent, experienced and agile
+description: Full Stack Java Developer
+tagline: independent, experienced and agile
 host: 0.0.0.0
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.micheldebree.nl" # the base hostname & protocol for your site
