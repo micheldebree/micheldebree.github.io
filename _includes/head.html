@@ -5,7 +5,7 @@
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="keywords" content="freelance,developer,java,java 8,spring,spring boot,react,reactjs,javascript,hibernate,docker,git">
+  <meta name="keywords" content="freelance,developer,java,java 8,java8,java 11,java 11,spring,spring boot,springboot,react,reactjs,javascript,hibernate,docker,git">
 
 {% capture styles %}{% include main.scss %}{% endcapture %}
 <style>
@@ -20,5 +20,4 @@
   <link rel="manifest" href="/manifest.json">
   <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
   <meta name="theme-color" content="#ffffff">
-  {% include google_analytics.html %}
 </head>
