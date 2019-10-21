@@ -12,8 +12,8 @@ build: image
 debug: image
 	$(DEBUG)
 
-report: 
-	lighthouse --view http://localhost:4000
+report:
+	npx lighthouse --view http://localhost:4000
 
 clean:
 	rm -rf _site
