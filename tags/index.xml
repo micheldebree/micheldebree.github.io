@@ -1,1 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Michel de Bree</title><link>https://www.micheldebree.nl/tags/</link><description>Recent content in Tags on Michel de Bree</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 19 Mar 2020 08:00:00 +0100</lastBuildDate><atom:link href="https://www.micheldebree.nl/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>software development</title><link>https://www.micheldebree.nl/tags/software-development/</link><pubDate>Thu, 19 Mar 2020 08:00:00 +0100</pubDate><guid>https://www.micheldebree.nl/tags/software-development/</guid><description/></item><item><title>music</title><link>https://www.micheldebree.nl/tags/music/</link><pubDate>Thu, 01 Jan 1998 17:23:00 +0200</pubDate><guid>https://www.micheldebree.nl/tags/music/</guid><description/></item><item><title>c64</title><link>https://www.micheldebree.nl/tags/c64/</link><pubDate>Thu, 07 Jul 1994 18:06:31 +0100</pubDate><guid>https://www.micheldebree.nl/tags/c64/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Michel de Bree</title>
+    <link>https://www.micheldebree.nl/tags/</link>
+    <description>Recent content in Tags on Michel de Bree</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Mar 2020 08:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.micheldebree.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>software development</title>
+      <link>https://www.micheldebree.nl/tags/software-development/</link>
+      <pubDate>Thu, 19 Mar 2020 08:00:00 +0100</pubDate>
+      
+      <guid>https://www.micheldebree.nl/tags/software-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://www.micheldebree.nl/tags/music/</link>
+      <pubDate>Thu, 01 Jan 1998 17:23:00 +0200</pubDate>
+      
+      <guid>https://www.micheldebree.nl/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>c64</title>
+      <link>https://www.micheldebree.nl/tags/c64/</link>
+      <pubDate>Thu, 07 Jul 1994 18:06:31 +0100</pubDate>
+      
+      <guid>https://www.micheldebree.nl/tags/c64/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

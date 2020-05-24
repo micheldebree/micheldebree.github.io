@@ -1,3 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>music on Michel de Bree</title><link>https://www.micheldebree.nl/tags/music/</link><description>Recent content in music on Michel de Bree</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 01 Jan 1998 17:23:00 +0200</lastBuildDate><atom:link href="https://www.micheldebree.nl/tags/music/index.xml" rel="self" type="application/rss+xml"/><item><title>Smart 4 (Fasttracker II worktune)</title><link>https://www.micheldebree.nl/posts/smart4/</link><pubDate>Thu, 01 Jan 1998 17:23:00 +0200</pubDate><guid>https://www.micheldebree.nl/posts/smart4/</guid><description>A short little jam. Can you spot the trick in track 1 that makes the track swing &amp;lsquo;n shuffle?
-P.S. The track plays twice because it is so short.</description></item><item><title>DYCP and music routine on a 386 PC</title><link>https://www.micheldebree.nl/posts/dycp-386/</link><pubDate>Thu, 07 Jul 1994 18:06:31 +0100</pubDate><guid>https://www.micheldebree.nl/posts/dycp-386/</guid><description>Coming from the Commodore 64 and being used to coding in assembler, I tried to do the same on my dad&amp;rsquo;s 386 PC. I decided on a DYCP effect, a popular effect in the Commodore 64 demoscene.
-The DYCP itself (the bouncy scroller) wasn&amp;rsquo;t too hard; most effort and fun went into the music routine for the Soundblaster&amp;lsquo;s OPL2 (Yamaha YM3812) chip. This is the chip on the Soundblaster that was has a little FM synthesizer in it.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>music on Michel de Bree</title>
+    <link>https://www.micheldebree.nl/tags/music/</link>
+    <description>Recent content in music on Michel de Bree</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jan 1998 17:23:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.micheldebree.nl/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Smart 4 (Fasttracker II worktune)</title>
+      <link>https://www.micheldebree.nl/posts/smart4/</link>
+      <pubDate>Thu, 01 Jan 1998 17:23:00 +0200</pubDate>
+      
+      <guid>https://www.micheldebree.nl/posts/smart4/</guid>
+      <description>A short little jam. Can you spot the trick in track 1 that makes the track swing &amp;lsquo;n shuffle?
+P.S. The track plays twice because it is so short.
+  </description>
+    </item>
+    
+    <item>
+      <title>DYCP and music routine on a 386 PC</title>
+      <link>https://www.micheldebree.nl/posts/dycp-386/</link>
+      <pubDate>Thu, 07 Jul 1994 18:06:31 +0100</pubDate>
+      
+      <guid>https://www.micheldebree.nl/posts/dycp-386/</guid>
+      <description>Coming from the Commodore 64 and being used to coding in assembler, I tried to do the same on my dad&amp;rsquo;s 386 PC. I decided on a DYCP effect, a popular effect in the Commodore 64 demoscene.
+The DYCP itself (the bouncy scroller) wasn&amp;rsquo;t too hard; most effort and fun went into the music routine for the Soundblaster&amp;lsquo;s OPL2 (Yamaha YM3812) chip. This is the chip on the Soundblaster that was has a little FM synthesizer in it.</description>
+    </item>
+    
+  </channel>
+</rss>
