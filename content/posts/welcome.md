@@ -38,6 +38,11 @@ This is how I did it
   brew install hugo
   ```
 
+{{< notice tip >}}
+There is a much easier way to do this now. Stay put and I will make a new blog
+post about it.
+{{< /notice >}}
+
 - I have a [Github](https://github.com) account, where I created
 
   - a **source** repository for my Hugo website configuration and content,

@@ -1,7 +1,5 @@
-LAST_COMMIT_MSG=$(shell git log -1 --pretty=%B)
-
-.PHONY: start
-start:
+.PHONY: test
+test:
 	open http://localhost:1313
 	hugo -D server --disableFastRender
 
@@ -17,7 +15,6 @@ all: \
 icons: static/images/favicon-16x16.png \
 	static/images/favicon-32x32.png \
 	static/images/apple-touch-icon.png
-
 
 # TODO: subtree?
 content/resume.md: ../micheldebree.nl/cv/README.md

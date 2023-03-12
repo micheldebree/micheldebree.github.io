@@ -1,6 +1,8 @@
 baseurl = "https://www.micheldebree.nl"
 title = "Michel de Bree"
 
+publishDir = "docs"
+
 theme = "hugo-coder"
 enableEmoji = true
 
