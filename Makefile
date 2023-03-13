@@ -35,3 +35,8 @@ static/images/favicon-32x32.png: static/images/logo.svg
 static/images/apple-touch-icon.png: static/images/logo.svg
 	convert -resize 180x180 -background none $< $@
 	optipng -o7 $@
+
+upgrade-theme:
+	git fetch hugo-coder main
+	git subtree pull --prefix themes/hugo-coder hugo-coder main --squash
+
