@@ -27,6 +27,11 @@ example. The main reasons for doing it like this are:
   with: Git, Markdown, HTML, CSS. I do not need to mouse around in a
   user-friendly UI.
 
+{{< notice warning >}}
+The setup described below is obsolete. I set it up much simpler now. Read all
+about the new setup in [this post](/posts/website_single_repo)
+{{< /notice >}}
+
 ## The setup
 
 This is how I did it
@@ -38,10 +43,6 @@ This is how I did it
   brew install hugo
   ```
 
-{{< notice tip >}}
-There is a much easier way to do this now. Stay put and I will make a new blog
-post about it.
-{{< /notice >}}
 
 - I have a [Github](https://github.com) account, where I created
 
