@@ -43,3 +43,4 @@ upgrade-theme:
 .PHONY: clean
 clean:
 	rm -rf docs
+	rm -rf resources
