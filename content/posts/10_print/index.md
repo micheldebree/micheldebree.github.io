@@ -15,10 +15,10 @@ code. By ten authors.](https://bogost.com/books/10_print_chr2055rnd1_goto_10/)
 
 When run, the code starts outputting a pseudo-random maze that goes on forever:
 
-![](goto10.gif)
+![Animated screenshot of a maze being built up](goto10.gif)
 
-This achieved by outputting, at random, either character 205 or character 206 of
-the standard [Commodore 64 character
+This achieved by repeatedly outputting, at random, either character 205 or
+character 206 of the standard [Commodore 64 character
 set](https://www.pagetable.com/c64ref/charset/). It takes up 26 bytes of memory.
 
 # The assembler language equivalent
@@ -31,16 +31,16 @@ back and forth, I managed to shave some bytes off and end up with this minimal
 version:
 
 ```asm
-  loop: lda #205
-        lsr $d012
-        adc #0
-        jsr $ffd2
-        bne loop
+loop: lda #205
+    lsr $d012
+    adc #0
+    jsr $ffd2
+    bne loop
 ```
 
 This takes up 12 bytes of memory and runs a bit faster than the original:
 
-![](goto10.asm.gif)
+![Animated screenshot of a similar maze being built up, but much faster](goto10.asm.gif)
 
 How it works:
 
