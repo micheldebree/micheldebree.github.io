@@ -32,10 +32,10 @@ version:
 
 ```asm
 loop: lda #205
-    lsr $d012
-    adc #0
-    jsr $ffd2
-    bne loop
+      lsr $d012
+      adc #0
+      jsr $ffd2
+      bne loop
 ```
 
 This takes up 12 bytes of memory and runs a bit faster than the original:
