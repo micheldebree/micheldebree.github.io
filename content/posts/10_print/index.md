@@ -17,7 +17,7 @@ When run, the code starts outputting a pseudo-random maze that goes on forever:
 
 ![Animated screenshot of a maze being built up](goto10.gif)
 
-This achieved by repeatedly outputting, at random, either character 205 or
+This is achieved by repeatedly outputting, at random, either character 205 or
 character 206 of the standard [Commodore 64 character
 set](https://www.pagetable.com/c64ref/charset/). It takes up 26 bytes of memory.
 
@@ -27,7 +27,7 @@ I saw a [toot on
 mastodon](https://mastodon.gamedev.place/@ShaunBebbington/110034823674376940) by
 [@ShaunBebbington](https://mastodon.gamedev.place/@ShaunBebbington) with a
 version of this effect in Commodore 64 assembler language. After a few toots
-back and forth, I managed to shave some bytes off and end up with this minimal
+back and forth, I managed to shave some bytes off and ended up with this minimal
 version:
 
 ```asm
