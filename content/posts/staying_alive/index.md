@@ -80,4 +80,7 @@ I also got to meet some new friends, and catch up with old friends:
 > music composer who has been very influential to, I dare say, almost everyone
 > doing SID music nowadays. First time we met we both still had hair.
 
+![Jack-Paw-Judi](jpj.webp)
 
+> [Jack-Paw-Judi](https://csdb.dk/scener/?id=35950), who did the complete
+> soundtrack for the demo [Hiraeth](https://www.youtube.com/watch?v=Nwh2otqmwmg)

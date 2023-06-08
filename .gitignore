@@ -3,3 +3,4 @@ resources
 *.lock
 *.orig
 .obsidian
+.DS_Store
