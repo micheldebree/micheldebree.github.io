@@ -5,8 +5,9 @@ draft: false
 tags: ["c64", "sid", "coding", "cover"]
 ---
 
-This weekend I spent at X 2023 in Someren, Holland. X is a bi-annual Commodore
-64 [demoscene](https://en.wikipedia.org/wiki/Demoscene) event where creative
+This weekend I spent at [X2023](https://csdb.dk/event/?id=3187) in Someren,
+Holland. X is a bi-annual Commodore 64
+[demoscene](https://en.wikipedia.org/wiki/Demoscene) event where creative
 enthousiasts gather from all over Europe (and some from further away even!). We
 get to meet friends we made online, talk to others who's work we admire, and
 have a big shootout in one of the competitions. There are competitions for music
@@ -19,7 +20,8 @@ and graphics, but the big banger on saturday night is the demo competition.
 ![View from the control tower](hall.webp)
 
 You can download "Staying Alive" at the
-[CSDb](https://csdb.dk/release/?id=232978)
+[CSDb](https://csdb.dk/release/?id=232978), or just read some of the comments
+there.
 
 I have been to a couple of X parties, but this was the first time I had
 something to show on the big screen, so that was a lot of fun!
@@ -79,6 +81,13 @@ I also got to meet some new friends, and catch up with old friends:
 > [Jeroen Tel](https://csdb.dk/scener/?id=8050), the legendary game and demo
 > music composer who has been very influential to, I dare say, almost everyone
 > doing SID music nowadays. First time we met we both still had hair.
+
+![Flex](flex.webp)
+
+> [Flex](https://csdb.dk/scener/?id=530). I am a fan of his always uplifting
+> tunes. This time he did the soundtrack for the fantastic demo
+> [Multiverse](https://www.youtube.com/watch?v=6-AF72Vqlwg). He also got to
+> interview the legendary Rob Hubbard on stage!
 
 ![Jack-Paw-Judi](jpj.webp)
 
