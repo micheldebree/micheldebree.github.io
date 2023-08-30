@@ -8,6 +8,7 @@ all: \
 	icons \
 	content/resume.md \
 	static/resume/Photo.jpg \
+	static/resume/Contact.png \
 	static/resume/Michel_de_Bree-Resume.EN.docx \
 	static/resume/Michel_de_Bree-Resume.EN.pdf 
 	hugo --minify
@@ -20,7 +21,7 @@ icons: static/images/favicon-16x16.png \
 content/resume.md: ../micheldebree.nl/cv/README.md
 	cp $< $@
 
-static/resume/%: ../cv/%
+static/resume/%: ../micheldebree.nl/cv/%
 	mkdir -p static/resume
 	cp $< $@
 
