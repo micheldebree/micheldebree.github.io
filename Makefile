@@ -36,6 +36,7 @@ static/images/apple-touch-icon.png: static/images/logo.svg
 	convert -resize 180x180 -background none $< $@
 	optipng -o7 $@
 
+.PHONY: upgrade-theme
 upgrade-theme:
 	git fetch hugo-coder main
 	git subtree pull --prefix themes/hugo-coder hugo-coder main --squash
