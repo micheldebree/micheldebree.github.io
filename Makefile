@@ -8,7 +8,7 @@ all: \
 	icons \
 	content/resume.md \
 	static/resume/Photo.jpg \
-	static/resume/Contact.png \
+	static/resume/QR.png \
 	static/resume/Michel_de_Bree-Resume.EN.docx \
 	static/resume/Michel_de_Bree-Resume.EN.pdf 
 	hugo --minify
