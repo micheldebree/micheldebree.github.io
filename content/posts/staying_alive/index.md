@@ -11,7 +11,7 @@ Holland. X is a bi-annual Commodore 64
 enthusiasts gather from all over Europe (and some from further away even!). We
 get to meet friends we made online, talk to others who's work we admire, and
 have a big shootout in one of the competitions. There are competitions for music
-and graphics, but the big banger on saturday night is the demo competition. 
+and graphics, but the big banger on saturday night is the demo competition.
 
 {{< youtube id="5j-Yj2VKB5c" autoplay="true" >}}
 
@@ -22,6 +22,16 @@ and graphics, but the big banger on saturday night is the demo competition.
 You can download "Staying Alive" at the
 [CSDb](https://csdb.dk/release/?id=232978), or just read some of the comments
 there.
+
+I even got a mention in the [local digital
+newspaper of Someren](https://www.ed.nl/someren/kunst-maken-op-veertig-jaar-oude-commodore-64s-de-jochies-in-600-volwassen-mannen-staan-op-in-someren~a95b90b9/):
+
+![Excerpt from article in local newspaper](ED_Someren.webp)
+
+> "One participant plays the tones of Staying Alive by the Bee Gees, with a
+> blocky video of a beating heart and the text: keep that commodore beating on
+> the screen. It's his entry for one of the demo competitions held over the
+> weekend."
 
 ## From animated GIF to PETSCII
 
@@ -110,14 +120,13 @@ up a bit, and see the results immediately in the demo.
 
 As the final format I wanted to try and generate direct, unrolled code that
 draws the frames on the screen. This turned out to be really fast, so I can
-achieve 50fps animations with lots and lots of raster time left over. 
+achieve 50fps animations with lots and lots of raster time left over.
 
 Unrolling code is an optimization where you take a piece of code that would
 normally be a loop, and instead of repeatedly looping while iterating over a
 variable `i` for example, you "unroll" the loop and write out all the iterations
 directly. This saves cycles by skipping the test-and-branch at every iteration,
 and eliminating indexed lookups into tables. For example:
-
 
 ```asm
     ldx #0        ; 2 cycles
@@ -130,7 +139,7 @@ loop:
 ```
 
 > Subroutine to copy 256 character stored at $1000 to screen memory,
-> taking 2 + 256 * (4 + 5 + 2 + 2 ) + 3 = 3333 cycles
+> taking 2 + 256 \* (4 + 5 + 2 + 2 ) + 3 = 3333 cycles
 
 ```asm
     lda #65      ; 2 cycles
@@ -144,7 +153,7 @@ loop:
 ```
 
 > Same subroutine unlooped and not looking up values,
-> taking 256 * (2 + 4) + 3 = 1539 cycles, making it more than twice as fast
+> taking 256 \* (2 + 4) + 3 = 1539 cycles, making it more than twice as fast
 
 The trade-off for speed is of course space; it is not the most economical format
 to store the animation in.
@@ -173,7 +182,7 @@ These are illustrated below in a small snippet:
 ```asm
 ldx #$f8   ; load x-register with value $f8
 stx $0400  ; store in screen memory
-stx $0402  
+stx $0402
 stx $d801  ; store in color memory, effectively color 8
 inx        ; make x-register value $f9
 stx $0401  ; store in screen memory
@@ -215,7 +224,7 @@ I also got to meet some new friends, and catch up with old friends:
 > [Honcho](https://csdb.dk/scener/?id=34209). I did the soundtrack on his
 > [Endoskull](https://www.micheldebree.nl/posts/endoskull/) animation. This time
 > he was also part of the [Mojo](https://www.youtube.com/watch?v=3aJzSySfCZM)
-> production team. 
+> production team.
 
 ![Stinsen](stinsen.webp)
 
