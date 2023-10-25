@@ -10,7 +10,8 @@ all: \
 	static/resume/Photo.jpg \
 	static/resume/QR.png \
 	static/resume/Michel_de_Bree-Resume.EN.docx \
-	static/resume/Michel_de_Bree-Resume.EN.pdf 
+	static/resume/Michel_de_Bree-Resume.EN.pdf \
+	static/resume/michel_de_bree.vcf
 	hugo --minify
 
 icons: static/images/favicon-16x16.png \
@@ -46,3 +47,4 @@ upgrade-theme:
 clean:
 	rm -rf docs
 	rm -rf resources
+	rm -rf public
