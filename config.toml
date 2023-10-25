@@ -45,10 +45,7 @@ pygmentscodefencesguesssyntax = true
     maxSeeAlsoItems = 5
 
     # Custom CSS
-    custom_css = ["css/custom.css"]
-
-    # Custom JS
-    custom_js = []
+    customCSS = ["css/custom.css"]
 
 [taxonomies]
   category = "categories"
