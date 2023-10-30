@@ -90,9 +90,10 @@ could:
 
 > The KCS Power Cartridge monitor unveiling the secrets of machine language
 
-In the image above, you see the memory location on the left (there are `$ffff`
-of them, so about 64k). Next to that you see the bytes that the CPU understands
-as instructions. Each instruction is one byte, optionally followed by one or two
+In the image above, you see the memory location on the left (in the range of
+`$0000-$ffff` so about 64k. Hex numbers are expressed with a `$` on the
+Commodore 64). Next to that you see the bytes that the CPU understands as
+instructions. Each instruction is one byte, optionally followed by one or two
 bytes as an argument to the instruction. The third column shows the instruction
 as mnemonics (also called assembler code), making it a bit more readable.
 
@@ -100,6 +101,53 @@ So, after studying existing demo's, changing their appearance and scroll texts
 to claim that we made them (ahem...), we started making demo's ourselves, using
 the monitor tool of the power cartridge. And one of the first things we did is
 the humble picture collection "Our Point of View".
+
+## The pain of absolute memory references
+
+While the monitor in the Power Cartridge opened up a world of possibilities by
+allowing us to directly write and manipulate the machine code, it has one big
+drawback; machine code uses a lot of references to absolute memory locations.
+Instructions like:
+
+- `JMP $1003` (continue running code at memory location `$1003`)
+- `JSR $9876` (jump to a subroutine at memory location `$9876`)
+- `BEQ $0824` (if the result of the last comparison is equality, jump to memory location `$0824`)
+- `LDA $4901` (read the value in memory location `$4901` into the accumulator)
+- `STA $4901` (write the value in the accumulator in memory location `$4901`)
+- `INC $a203` (increment the value at memory location `$a203` by one)
+
+Because the code itself is also just bytes in memory, that means that if you
+want to insert or delete an instruction, you need to move your code around in
+memory, **messing up any references to that shifted code** and making your jump
+instructions jump somewhere else where they are not supposed to jump to.
+
+If you are keeping your data close to your code (because of limited memory), you
+might need to move some of that as well to make room for your code, and your
+read/write instructions might point to the wrong locations as well.
+
+One of the strategies to lessen this pain was to use a lot of `NOP` instructions
+in places where you might need to insert code, or put them over code that you
+want to delete. `NOP` stands for "N OPeration" and does nothing. Of course you
+end up with a lot of `NOP` instructions that you didn't use after all, wasting 1
+byte of memory and 2 execution cycles per `NOP`.
+
+## Next step: assembler
+
+Later on, we got hold of an actual "Assembler"; a text editor/compiler to write
+assembler language in. Here you could use labels instead of absolute addresses.
+This meant you had to "assemble" the code every time you changed something and
+the assembler would put the machine code in memory with the labels translated to
+memory locations again. This meant you could easily move your instructions and
+data around because they were not tied to specific memory locations anymore. Of
+course this came with a cost aswell:
+
+- Having to load the assembler from disk every time you want to code something
+- Not being able to use the memory where the assembler lives for your own
+  program
+- Having to wait for the assembler to assemble your code, which in my memory was
+  about 2-5 seconds.
+
+---
 
 The background tunes, made by [Jőrg
 Rosenstiel](https://deepsid.chordian.net/?file=/MUSICIANS/R/Rosenstiel_Joerg/Its_a_Sin_remix_2.sid)
