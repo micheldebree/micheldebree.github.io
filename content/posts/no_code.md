@@ -16,8 +16,8 @@ proposed solution and instead deleting a little a bit of code.
 
 In a big project I worked on, several applications built by different teams were
 integrated into one portal application. The portal supplied things like a
-unified header and footer, menu structure and authentication. I was on on of the
-teams.
+unified header and footer, menu structure and authentication. I was on one of
+the teams.
 
 The integration was done using iframes. In general, using iframes for this sort
 of thing is a bad thing because they cause usability and security headaches. So
@@ -37,8 +37,8 @@ would be a waste.
 
 For our team it didn't come to that though, because I started to wonder whether
 this was the right solution. I agreed getting rid of the iframe integration was
-a good idea. The whole thing was technically and functionally a very good idea
-and would make the site more useable and secure.
+a good idea. The whole thing was technically a very good idea and would make the
+site more useable and secure.
 
 ## Why though?
 
@@ -69,9 +69,9 @@ application. I stepped out of the task force and could work on actual problems.
 This saved a lot of work in building, testing, bug fixing, attending meetings
 and maintaining something that nobody actually uses.
 
-The lesson I learned from this and other experiences is that even when a
+The lesson I learned from this and other experiences is that even when the 
 solution to a problem is presented to you as a coding job, and everyone around
-you seems to agree wit it, it is now _your_ problem and the solution is _your_
+you seems to agree with it, it is now _your_ problem and the solution is _your_
 responsibility. Make sure you understand the problem, its priority, pro's and
 cons and alternative solutions. Especially weigh in solutions that involve _not_
 writing code, because code is a liability that is expensive to make, even more
