@@ -23,6 +23,8 @@ You can download "Staying Alive" at the
 [CSDb](https://csdb.dk/release/?id=232978), or just read some of the comments
 there.
 
+The sourcecode is available on [Github](https://github.com/micheldebree/stayingalive)
+
 I even got a mention in the [local digital
 newspaper of Someren](https://www.ed.nl/someren/kunst-maken-op-veertig-jaar-oude-commodore-64s-de-jochies-in-600-volwassen-mannen-staan-op-in-someren~a95b90b9/):
 
