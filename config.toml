@@ -74,7 +74,7 @@ pygmentscodefencesguesssyntax = true
     url = "https://github.com/micheldebree/"
 [[params.social]]
     name = "Mastodon"
-    icon = "fa fa-2x fa-mastodon"
+    icon = "fa fa-2x fa-brands fa-mastodon"
     weight = 4
     url = "https://mastodon.nl/@micheldebree"
     rel = "me"
