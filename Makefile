@@ -12,7 +12,7 @@ all: \
 	static/resume/Michel_de_Bree-Resume.EN.docx \
 	static/resume/Michel_de_Bree-Resume.EN.pdf \
 	static/resume/michel_de_bree.vcf \
-	public/csdb/events.ics
+	static/csdb/events.ics
 	hugo --minify
 
 icons: static/images/favicon-16x16.png \
@@ -23,7 +23,7 @@ icons: static/images/favicon-16x16.png \
 content/resume.md: ../micheldebree.nl/cv/README.md
 	cp $< $@
 
-public/csdb/events.ics: csdbCal/events.ics
+static/csdb/events.ics: csdbCal/events.ics
 	mv $< $@
 
 .PHONY: csdbCal/events.ics
