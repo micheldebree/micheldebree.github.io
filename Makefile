@@ -11,7 +11,8 @@ all: \
 	static/resume/QR.png \
 	static/resume/Michel_de_Bree-Resume.EN.docx \
 	static/resume/Michel_de_Bree-Resume.EN.pdf \
-	static/resume/michel_de_bree.vcf
+	static/resume/michel_de_bree.vcf \
+	public/csdb/events.ics
 	hugo --minify
 
 icons: static/images/favicon-16x16.png \
@@ -21,6 +22,13 @@ icons: static/images/favicon-16x16.png \
 # TODO: subtree?
 content/resume.md: ../micheldebree.nl/cv/README.md
 	cp $< $@
+
+public/csdb/events.ics: csdbCal/events.ics
+	mv $< $@
+
+.PHONY: csdbCal/events.ics
+csdbCal/events.ics:
+	cd ./csdbCal && make run
 
 static/resume/%: ../micheldebree.nl/cv/%
 	mkdir -p static/resume
