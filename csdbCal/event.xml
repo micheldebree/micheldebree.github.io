@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSDbData>
+	<Release>
+		<ID>241029</ID>
+		<Name>4k-2-8-7-5-6</Name>
+		<Type>C64 4K Intro</Type>
+		<ReleaseDay>31</ReleaseDay>
+		<ReleaseMonth>3</ReleaseMonth>
+		<ReleaseYear>2024</ReleaseYear>
+		<ReleasedAt>
+			<Event>
+				<ID>3401</ID>
+				<Name>Revision 2024</Name>
+				<EventType>Demo Party</EventType>
+				<Tagline>We Are Many</Tagline>
+				<StartDay>29</StartDay>
+				<StartMonth>3</StartMonth>
+				<StartYear>2024</StartYear>
+				<EndDay>1</EndDay>
+				<EndMonth>4</EndMonth>
+				<EndYear>2024</EndYear>
+				<Address>E WERK, Dr.-Tietz-Straße 14</Address>
+				<Zip>66115</Zip>
+				<City>Saarbrücken</City>
+				<State>Saarland</State>
+				<Country>Germany</Country>
+				<Website>https://2024.revision-party.net/</Website>
+			</Event>
+		</ReleasedAt>
+		<Achievement>
+			<Compo>C64 4K Intro</Compo>
+			<Place>7</Place>
+		</Achievement>
+		<Rating>9.78</Rating>
+		<ScreenShot>https://csdb.dk/gfx/releases/241000/241029.png</ScreenShot>
+		<ReleasedBy>
+			<Group>
+				<ID>185</ID>
+				<Name>Excess</Name>
+				<Short>[EX]</Short>
+				<Trivia>Not to be mixed up with the UK based group &amp;lt;group id=2273&amp;gt;
+					which was active 1989-1990.
+
+					In 1994 Excess did three first releases in cooperation with &amp;lt;group
+					id=485&amp;gt;.
+					Excess was in co-op with &amp;lt;group id=91&amp;gt; from 1995 to 1996 and very
+					active these days.
+					Did several releases in cooperation with &amp;lt;group id=145&amp;gt; from 1998
+					on.
+					The next co-op was for a quite short time from late 1998 till April of 1999 with
+					&amp;lt;group id=114&amp;gt; with a handful of releases.
+
+					In the '90s Excess released 25 issues of the disk magazine Nitro from December
+					1991 to May 1998. The first Issue
+					was released at the &amp;lt;event id=505&amp;gt;. The further issues up to #12
+					were released at the Venlo meetings.
+					In early 1994 Nitro took over the no. 1 spot from Skyhigh in the charts of many
+					magazines for a short time, but lost it
+					after issue #17, which had several bugs in the menu-coding. The coding was
+					changed again one issue later, and Nitro
+					came back to the no. 1 spot during 1995. Until the last issue Nitro was mostly a
+					top 3 mag.
+					After a delay of 21 years Nitro #26 was released in summer of 2019. There are no
+					further editions planed at the moment.
+
+					We organized 4 Excess partys in Emsdetten, Germany in 1994, 1995 and 1996. The
+					location was a pathfinder home with
+					space for up to 50 people. The visitors had the chance to sleep in the separate
+					sleeping room. In front of the VIP-Room
+					the competitions were shown in the main room of the 1st floor.
+					The biggest party was the Acrise &amp; Excess Party in 1996 with more than 60
+					visitors.
+					In January 2019 the first Excess party after 23 years took place. The Location
+					was Hof Beel in Oberlangen, Germany.
+					In January 2020 Excess organized a party together with Abyss Connection, again
+					at Hof Beel.
+
+					Although Excess never was really dead, the 25th anniversary was like a rebirth.
+					Red Rock and Sentinel became active again.
+					With Baracuda, pcollins, Curlin, Knight Rider, Artlace and Stablizer more new
+					members joined in 2017.
+					In 2018 Almighty God, Harry Potthead, TheEnemy, Zirias and Finchy joined the
+					group.
+					In 2019 Twilight (ex-Arcade), Kickback (ex-GP), Fugu, Fulgore and Zscs became
+					new members. Firelord returned.
+					In 2020 B.A. and Ebster joined us and 2021 Retroluzzer, HOL2001, Sidwave and
+					Nordischsound became new members.
+					Beside the usual releases Excess was doing a lot of Easy Flash releases.
+					The small mag Rapidnews was released every 2nd month from 2019 on.
+
+					Excess' budget/lamer label is &amp;lt;group id=2340&amp;gt;.</Trivia>
+				<BaseCountry>Germany</BaseCountry>
+				<FoundDay>25</FoundDay>
+				<FoundMonth>10</FoundMonth>
+				<FoundYear>1991</FoundYear>
+				<Rating>8.8</Rating>
+				<Grouptypes>
+					<Grouptype>Magazine Staff</Grouptype>
+					<Grouptype>Cracker Group</Grouptype>
+				</Grouptypes>
+				<Slogan>More than you deserve</Slogan>
+			</Group>
+		</ReleasedBy>
+		<Credits>
+			<Credit>
+				<CreditType>Music</CreditType>
+				<Handle>
+					<ID>39316</ID>
+					<Handle>GuyGavin</Handle>
+					<CurrentlyUsedHandle>true</CurrentlyUsedHandle>
+					<Scener>
+						<ID>35976</ID>
+						<Handles>
+							<Handle>
+								<ID>39316</ID>
+							</Handle>
+						</Handles>
+					</Scener>
+					<FreelanceFunctions>
+						<Function>Musician</Function>
+					</FreelanceFunctions>
+				</Handle>
+			</Credit>
+			<Credit>
+				<CreditType>Idea</CreditType>
+				<Handle>
+					<ID>1060</ID>
+					<Handle>Twilight</Handle>
+					<CurrentlyUsedHandle>true</CurrentlyUsedHandle>
+					<HandleStory>Uwe started beginning in Trigon, Alcoholics and after that he
+						joined Arcade (right decision!) together with 1 Person more, called
+						Levis/CrimeDesign/Code Demon and at least Realistic in Arcade. Uwe has been
+						the leader of The Alcoholics and lived in Papenburg near the dutch boarder.</HandleStory>
+					<Scener>
+						<ID>19489</ID>
+						<Country>Germany</Country>
+						<Trivia>- Organised the SCS+DOM - Party in Papenburg with Tyree (at that
+							time in SCS) + Levis/CrimeDesign of The Alcohlics
+							- loved Techno/Trance - Music
+							- good and fast intro programmer</Trivia>
+						<Handles>
+							<Handle>
+								<ID>4831</ID>
+								<Handle>Flexible</Handle>
+								<CurrentlyUsedHandle>false</CurrentlyUsedHandle>
+								<Scener>
+									<ID>19489</ID>
+								</Scener>
+								<FreelanceFunctions>
+									<Function>Coder</Function>
+									<Function>Cracker</Function>
+									<Function>Diskmag Editor</Function>
+									<Function>Phreaker</Function>
+								</FreelanceFunctions>
+							</Handle>
+							<Handle>
+								<ID>21799</ID>
+								<Handle>Poser</Handle>
+								<AKA>The Poser</AKA>
+								<CurrentlyUsedHandle>false</CurrentlyUsedHandle>
+								<Scener>
+									<ID>19489</ID>
+								</Scener>
+								<FreelanceFunctions>
+									<Function>Coder</Function>
+								</FreelanceFunctions>
+							</Handle>
+							<Handle>
+								<ID>1060</ID>
+							</Handle>
+						</Handles>
+					</Scener>
+					<FreelanceFunctions>
+						<Function>Coder</Function>
+						<Function>Modem Trader</Function>
+						<Function>Swapper</Function>
+					</FreelanceFunctions>
+				</Handle>
+			</Credit>
+			<Credit>
+				<CreditType>Code</CreditType>
+				<Handle>
+					<ID>1060</ID>
+				</Handle>
+			</Credit>
+		</Credits>
+		<DownloadLinks>
+			<DownloadLink>
+				<Link>https://csdb.dk/getinternalfile.php/255257/4k_2-8-7-5-6%5Bex%5D.prg</Link>
+				<CounterLink>https://csdb.dk/release/download.php?id=295855</CounterLink>
+				<Downloads>97</Downloads>
+				<Status>Ok</Status>
+			</DownloadLink>
+			<DownloadLink>
+				<Link>https://csdb.dk/getinternalfile.php/255258/Intro_Number_33.sid</Link>
+				<CounterLink>https://csdb.dk/release/download.php?id=295856</CounterLink>
+				<Downloads>13</Downloads>
+				<Status>Ok</Status>
+			</DownloadLink>
+		</DownloadLinks>
+		<Comments>
+			<UserComment>
+				<CSDbUser>
+					<ID>6225</ID>
+					<Login>Mythus</Login>
+					<Handle>Mythus</Handle>
+					<RegisteredDate>1970-01-01T01:00:00+01:00</RegisteredDate>
+					<CSDbEntry>
+						<Handle>
+							<ID>25483</ID>
+							<Handle>Mythus</Handle>
+							<CurrentlyUsedHandle>true</CurrentlyUsedHandle>
+							<HandleStory>HPL inspired the name.</HandleStory>
+							<Scener>
+								<ID>22817</ID>
+								<Country>Sweden</Country>
+								<Handles>
+									<Handle>
+										<ID>25483</ID>
+									</Handle>
+									<Handle>
+										<ID>29120</ID>
+										<Handle>BBC</Handle>
+										<CurrentlyUsedHandle>false</CurrentlyUsedHandle>
+										<Scener>
+											<ID>22817</ID>
+										</Scener>
+									</Handle>
+								</Handles>
+							</Scener>
+							<FreelanceFunctions>
+								<Function>Coder</Function>
+								<Function>Graphician</Function>
+								<Function>Musician</Function>
+							</FreelanceFunctions>
+						</Handle>
+					</CSDbEntry>
+				</CSDbUser>
+				<Date>01.04.2024</Date>
+				<Text>Another nice intro Twilight, really nice executed, and that tune!!</Text>
+			</UserComment>
+			<UserComment>
+				<CSDbUser>
+					<ID>538</ID>
+					<Login>iAN CooG</Login>
+					<Handle>iAN CooG</Handle>
+					<RegisteredDate>1970-01-01T01:00:00+01:00</RegisteredDate>
+					<CSDbEntry>
+						<Handle>
+							<ID>6662</ID>
+							<Handle>Ian Coog</Handle>
+							<AKA>iAN CooG</AKA>
+							<CurrentlyUsedHandle>true</CurrentlyUsedHandle>
+							<HandleStory>Name of the main character of the anime "SF Saiyuki
+								Starzinger" by Leiji Matsumoto. At least here in italy, since in
+								japanese is written Jan Kugo. I've chosen the handle "IAN" to sign
+								my high scores on arcade games ^_^, then changed to Ian7102 in the
+								late 80's, and finally iAN CooG from 1999 or so.</HandleStory>
+							<Scener>
+								<ID>6145</ID>
+								<Country>Italy</Country>
+								<Handles>
+									<Handle>
+										<ID>7474</ID>
+										<Handle>IAN*7102</Handle>
+										<CurrentlyUsedHandle>false</CurrentlyUsedHandle>
+										<Scener>
+											<ID>6145</ID>
+										</Scener>
+										<FreelanceFunctions>
+											<Function>Cracker</Function>
+										</FreelanceFunctions>
+									</Handle>
+									<Handle>
+										<ID>6662</ID>
+									</Handle>
+								</Handles>
+							</Scener>
+							<FreelanceFunctions>
+								<Function>Coder</Function>
+								<Function>Cracker</Function>
+								<Function>Organizer</Function>
+							</FreelanceFunctions>
+						</Handle>
+					</CSDbEntry>
+				</CSDbUser>
+				<Date>01.04.2024</Date>
+				<Text>very nice and good to see the tune by GuyGavin used, instead of just upped at
+					deepsid site</Text>
+			</UserComment>
+			<UserComment>
+				<CSDbUser>
+					<ID>1118</ID>
+					<Login>smr</Login>
+					<Handle>Smasher</Handle>
+					<RegisteredDate>1970-01-01T01:00:00+01:00</RegisteredDate>
+					<CSDbEntry>
+						<Handle>
+							<ID>941</ID>
+							<Handle>Smasher</Handle>
+							<AKA>Ze Smasher</AKA>
+							<CurrentlyUsedHandle>true</CurrentlyUsedHandle>
+							<Scener>
+								<ID>925</ID>
+								<Country>Switzerland</Country>
+								<Handles>
+									<Handle>
+										<ID>941</ID>
+									</Handle>
+								</Handles>
+							</Scener>
+							<FreelanceFunctions>
+								<Function>Coder</Function>
+								<Function>Cracker</Function>
+								<Function>Graphician</Function>
+								<Function>Organizer</Function>
+								<Function>Original Supplier</Function>
+								<Function>Swapper</Function>
+							</FreelanceFunctions>
+						</Handle>
+					</CSDbEntry>
+				</CSDbUser>
+				<Date>31.03.2024</Date>
+				<Text>so cool.
+					Twilight: intro coder numero uno!</Text>
+			</UserComment>
+		</Comments>
+	</Release>
+	<script id="bw-fido2-page-script" />
+</CSDbData>

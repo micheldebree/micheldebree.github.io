@@ -5,11 +5,11 @@ import (
 )
 
 func main() {
-	eventIds := getUpcomingEventIds()
-	eventElements := getEventElements(eventIds)
+	eventIds := getItemIds(UpcomingEventsRSS)
+	eventElements := getEvents(eventIds)
 
 	calendar := createCalender(eventElements)
 
 	err := os.WriteFile("./events.ics", []byte(calendar), 0644)
-	handleError(err)
+	abortOnError(err)
 }

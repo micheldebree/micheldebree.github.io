@@ -8,11 +8,11 @@ import (
 	ics "github.com/arran4/golang-ical"
 )
 
-func commaSeparate(text ...string) string {
+func commaSeparate(textParts ...string) string {
 	result := ""
 
-	for _, txt := range text {
-		trimmedText := strings.TrimSpace(txt)
+	for _, textPart := range textParts {
+		trimmedText := strings.TrimSpace(textPart)
 		if len(trimmedText) > 0 {
 			if len(result) > 0 {
 				result += ", " + trimmedText
