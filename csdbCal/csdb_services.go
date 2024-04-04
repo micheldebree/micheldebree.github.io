@@ -22,6 +22,7 @@ const UpcomingEventsRSS = "https://csdb.dk/rss/upcomingevents.php"
 const LatestReleasesRSS = "https://csdb.dk/rss/latestreleases.php"
 
 const ItemUrl = "https://csdb.dk/webservice/?type=%s&id=%s"
+const ReleaseUrl = "https://csdb.dk/release/?id=%s"
 
 // XML structure for a CSDb RSS feed
 type RSS struct {
@@ -89,4 +90,9 @@ func getIdFromUrl(anUrl string) string {
 	abortOnError(err)
 
 	return query["id"][0]
+}
+
+// get the CSDb page URL for a release
+func getReleaseUrl(id string) string {
+	return fmt.Sprintf(ReleaseUrl, id)
 }

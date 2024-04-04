@@ -2,26 +2,21 @@ package main
 
 // XML structure for Release
 type CSDbDataReleases struct {
-	Release EventElement
+	Release ReleaseElement
 }
 
-type Release struct {
+type ReleaseElement struct {
 	ID            string
 	Name          string
 	Type          string
 	ReleaseDay    int
 	ReleaseMonth  int
 	ReleaseYear   int
-	ReleasedAt    ReleaseEvent
+	ReleasedAt    string `xml:"ReleasedAt>Event>Name"`
 	ScreenShot    string
-	ReleasedBy    ReleaseGroup
-	Credits       []ReleaseCredit
-	DownloadLinks []DownloadLink
-}
-
-type ReleaseEvent struct {
-	Name    string
-	Website string
+	ReleasedBy    string          `xml:"ReleasedBy>Group>Name"`
+	Credits       []ReleaseCredit `xml:"Credits>Credit"`
+	DownloadLinks []DownloadLink  `xml:"DownloadLinks>DownloadLink"`
 }
 
 type ReleaseGroup struct {
@@ -29,15 +24,34 @@ type ReleaseGroup struct {
 }
 
 type ReleaseCredit struct {
-	Handle     ReleaseHandle
+	Handle     string `xml:"Handle>Handle"`
 	CreditType string
-}
-
-type ReleaseHandle struct {
-	Handle string
 }
 
 type DownloadLink struct {
 	Link      string
 	Downloads int
+}
+
+func getRelease(id string) ReleaseElement {
+
+	decoder := getItemXMLDecoder(ReleaseType, id)
+
+	var csdbData CSDbDataReleases
+	err := decoder.Decode(&csdbData)
+	abortOnError(err)
+
+	// TODO: handle is not always set in credits,
+	// in that case, fetch the handle by ID
+
+	return csdbData.Release
+}
+
+// Get releases for a list of ids
+func getReleases(ids []string) []ReleaseElement {
+	result := make([]ReleaseElement, len(ids))
+	for i, id := range ids {
+		result[i] = getRelease(id)
+	}
+	return result
 }

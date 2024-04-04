@@ -24,11 +24,11 @@ func commaSeparate(textParts ...string) string {
 	return result
 }
 
-func createCalender(events []EventElement) string {
+func createEventsCalender(events []EventElement) string {
 	cal := ics.NewCalendar()
 
 	for _, event := range events {
-		calEvent := cal.AddEvent(fmt.Sprint("event", event.ID))
+		calEvent := cal.AddEvent(fmt.Sprint(EventType, event.ID))
 		calEvent.SetSummary(event.Name)
 		calEvent.SetDescription(event.EventType)
 		calEvent.SetURL(event.Website)
@@ -41,5 +41,46 @@ func createCalender(events []EventElement) string {
 		calEvent.SetAllDayEndAt(endDate)
 	}
 
+	return cal.Serialize()
+}
+
+func createReleasesCalendar(releases []ReleaseElement) string {
+
+	cal := ics.NewCalendar()
+
+	for _, release := range releases {
+
+		calEvent := cal.AddEvent(fmt.Sprint(ReleaseType, release.ID))
+		calEvent.SetSummary(fmt.Sprintf("%s (%s)", release.Name, release.Type))
+
+		releaseDate := time.Date(release.ReleaseYear, time.Month(release.ReleaseMonth), release.ReleaseDay, 0, 0, 0, 0, time.UTC)
+
+		calEvent.SetAllDayStartAt(releaseDate)
+		calEvent.SetAllDayEndAt(releaseDate)
+
+		calEvent.SetURL(getReleaseUrl(release.ID))
+
+		releasedBy := strings.TrimSpace(release.ReleasedBy)
+		releasedAt := strings.TrimSpace(release.ReleasedAt)
+
+		descriptionText := fmt.Sprintf("Released by %s", releasedBy)
+		if len(releasedAt) > 0 {
+			descriptionText += fmt.Sprintf(" at %s", releasedAt)
+		}
+		descriptionText += "\n"
+
+		for _, credit := range release.Credits {
+			descriptionText += fmt.Sprintf("%s by %s\n", credit.CreditType, credit.Handle)
+		}
+
+		calEvent.SetDescription(descriptionText)
+
+		calEvent.AddAttachmentURL(release.ScreenShot, "image/png")
+
+		for _, downloadLink := range release.DownloadLinks {
+			calEvent.AddAttachmentURL(downloadLink.Link, "application/octet-stream")
+		}
+
+	}
 	return cal.Serialize()
 }
