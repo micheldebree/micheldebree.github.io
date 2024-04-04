@@ -26,15 +26,7 @@ const ReleaseUrl = "https://csdb.dk/release/?id=%s"
 
 // XML structure for a CSDb RSS feed
 type RSS struct {
-	Channels Channel `xml:"channel"`
-}
-
-type Channel struct {
-	Items []Item `xml:"item"`
-}
-
-type Item struct {
-	Guid string `xml:"guid"`
+	Guids []string `xml:"channel>item>guid"`
 }
 
 // Fetch item ids from a CSDb RSS feed
@@ -46,9 +38,9 @@ func getItemIds(url string) []string {
 	err := decoder.Decode(&rss)
 	abortOnError(err)
 
-	var result = make([]string, len(rss.Channels.Items))
-	for i, item := range rss.Channels.Items {
-		result[i] = getIdFromUrl(item.Guid)
+	var result = make([]string, len(rss.Guids))
+	for i, guid := range rss.Guids {
+		result[i] = getIdFromUrl(guid)
 	}
 	return result
 }
