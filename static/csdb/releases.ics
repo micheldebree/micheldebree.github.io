@@ -1,0 +1,1792 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//arran4//Golang ICS Library
+BEGIN:VEVENT
+UID:release241264
+SUMMARY:Tinned Koalas (C64 One-File Demo)
+DTSTART;VALUE=DATE:20240404
+DTEND;VALUE=DATE:20240404
+URL:https://csdb.dk/release/?id=241264
+DESCRIPTION:Released by \nGraphics by Mermaid\nGraphics by Floris\nCode by
+  \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241264.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255507/tinned koalas.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release241263
+SUMMARY:Dua Lipa - Houdini (fixed chords) (C64 Music)
+DTSTART;VALUE=DATE:20240404
+DTEND;VALUE=DATE:20240404
+URL:https://csdb.dk/release/?id=241263
+DESCRIPTION:Released by Quantum\nMusic by Nordischsound\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241263.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255506/Houdini_fixed_chords.prg
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255505/Houdini_fixed_chords.sid
+END:VEVENT
+BEGIN:VEVENT
+UID:release241268
+SUMMARY:Mike Mech V1.3 +4D (C64 Crack)
+DTSTART;VALUE=DATE:20240403
+DTEND;VALUE=DATE:20240403
+URL:https://csdb.dk/release/?id=241268
+DESCRIPTION:Released by Genesis Project\nDocs by hedning\nLinking by
+  Zyron\nOriginal Supply by \nTrainer by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241268.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255511/MikeMechV1_3%2B4D_100%25-GP.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release241267
+SUMMARY:Tutankham Returns V1.1 +5D (C64 Crack)
+DTSTART;VALUE=DATE:20240403
+DTEND;VALUE=DATE:20240403
+URL:https://csdb.dk/release/?id=241267
+DESCRIPTION:Released by Genesis Project\nDocs by hedning\nLinking by
+  Zyron\nOriginal Supply by \nTrainer by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241267.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255510/TutankhamReturnsV1_1%2B5D_100%25-GP.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release241266
+SUMMARY:Tutankham V1.1 +5D (C64 Crack)
+DTSTART;VALUE=DATE:20240403
+DTEND;VALUE=DATE:20240403
+URL:https://csdb.dk/release/?id=241266
+DESCRIPTION:Released by Genesis Project\nDocs by hedning\nLinking by
+  Zyron\nOriginal Supply by \nTrainer by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241266.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255508/TutankhamV1_1%2B5D_100%25-GP.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release241261
+SUMMARY:Ultranova (2024) (C64 Graphics)
+DTSTART;VALUE=DATE:20240403
+DTEND;VALUE=DATE:20240403
+URL:https://csdb.dk/release/?id=241261
+DESCRIPTION:Released by \nGraphics by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241261.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255503/ULTRANOVA - WIRED %282024%29.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release241259
+SUMMARY:Legend of Wilf V1.0.1 +2D (C64 Crack)
+DTSTART;VALUE=DATE:20240403
+DTEND;VALUE=DATE:20240403
+URL:https://csdb.dk/release/?id=241259
+DESCRIPTION:Released by Laxity\nDocs by O'Dog\nOriginal Supply by \nTrainer
+  by \nCrack by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241259.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255501/Legend_of_Wilf_V1.0.1_%2B2D_LAXITY.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release241245
+SUMMARY:Sliced Color Grating (C64 Graphics)
+DTSTART;VALUE=DATE:20240403
+DTEND;VALUE=DATE:20240403
+URL:https://csdb.dk/release/?id=241245
+DESCRIPTION:Released by  at C64GFX.com CharSet Logo Compo 2024\nGraphics by
+  \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241245.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255485/SlicedColorGrating.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release241223
+SUMMARY:GB Tetris Title Screen (C64 One-File Demo)
+DTSTART;VALUE=DATE:20240402
+DTEND;VALUE=DATE:20240402
+URL:https://csdb.dk/release/?id=241223
+DESCRIPTION:Released by Hokuto Force\nMusic by DJ Space\nGraphics by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241223.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255463/djspace_gb_tetris.prg
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255462/djspace_gb_tetris.sid
+END:VEVENT
+BEGIN:VEVENT
+UID:release241179
+SUMMARY:Style Is Inmate (C64 One-File Demo)
+DTSTART;VALUE=DATE:20240402
+DTEND;VALUE=DATE:20240402
+URL:https://csdb.dk/release/?id=241179
+DESCRIPTION:Released by Padua\nIdea by Goerp\nGraphics by \nCode by
+  Aggressor\nIdea by Cupid\nGraphics by \nCode by Case\nMusic by T.L.F.\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241179.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255413/SnoopyDrePac.sid
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255412/inmate%21.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release241175
+SUMMARY:Easter Island (C64 Graphics)
+DTSTART;VALUE=DATE:20240402
+DTEND;VALUE=DATE:20240402
+URL:https://csdb.dk/release/?id=241175
+DESCRIPTION:Released by \nGraphics by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241175.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255407/easter_island.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release241201
+SUMMARY:Alpacalypse (C64 Game)
+DTSTART;VALUE=DATE:20240401
+DTEND;VALUE=DATE:20240401
+URL:https://csdb.dk/release/?id=241201
+DESCRIPTION:Released by The New Dimension\nMusic by DeMOSic\nLoader by
+  Martin Piper\nTest by Baracuda\nGraphics by Freeze\nDirectory Art by
+  Logiker\nTest by Richard\nMusic by \nCode by \nTest by Ax!s\nGraphics by
+  \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241201.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255438/Alpacalypse_Tape.tap
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255439/Alpacalypse_Complete.zip
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255437/Alpacalypse.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release241128
+SUMMARY:Alpacalypse +8CD (C64 Crack)
+DTSTART;VALUE=DATE:20240401
+DTEND;VALUE=DATE:20240401
+URL:https://csdb.dk/release/?id=241128
+DESCRIPTION:Released by Laxity\nDocs by Goat\nTrainer by \nLinking by
+  Didi\nTrainer by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241128.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255359/Alpacalypse_%2B8CD_LAXITY.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release241122
+SUMMARY:Metal Mayhem + (C64 Crack)
+DTSTART;VALUE=DATE:20240401
+DTEND;VALUE=DATE:20240401
+URL:https://csdb.dk/release/?id=241122
+DESCRIPTION:Released by Quantum\nLinking by Stormfront\nTrainer by
+  L.A.Style\nOriginal Supply by Retroluzzer\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241122.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255515/Metal Mayhem.txt
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255353/Metal Mayhem%2B QUANTUM.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release241119
+SUMMARY:Spinning Image +1D (C64 Crack)
+DTSTART;VALUE=DATE:20240401
+DTEND;VALUE=DATE:20240401
+URL:https://csdb.dk/release/?id=241119
+DESCRIPTION:Released by Quantum\nDocs by Stormfront\nLinking by \nTrainer
+  by L.A.Style\nOriginal Supply by Retroluzzer\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241119.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255350/Spinning Image %2B1D QUANTUM.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release241114
+SUMMARY:Spy Agent Deathmatch Preview +D (C64 Crack)
+DTSTART;VALUE=DATE:20240401
+DTEND;VALUE=DATE:20240401
+URL:https://csdb.dk/release/?id=241114
+DESCRIPTION:Released by Excess\nOriginal Supply by New Design\nDocs by Red
+  Rock\nLinking by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241114.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255344/Spy Agent Deathmatch Prv%2BD %5BEX%5D.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release241094
+SUMMARY:Je suis une Ã®le (C64 Music)
+DTSTART;VALUE=DATE:20240401
+DTEND;VALUE=DATE:20240401
+URL:https://csdb.dk/release/?id=241094
+DESCRIPTION:Released by Pretzel Logic\nGraphics by Flotsam\nMusic by \nCode
+  by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241094.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255322/jesuis-pl.prg
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255323/Je_Suis_Une_Ile.sid
+END:VEVENT
+BEGIN:VEVENT
+UID:release241069
+SUMMARY:Eggdiana Jones (C64 Graphics)
+DTSTART;VALUE=DATE:20240401
+DTEND;VALUE=DATE:20240401
+URL:https://csdb.dk/release/?id=241069
+DESCRIPTION:Released by \nGraphics by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241069.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255298/eggdiana_jones.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release241111
+SUMMARY:Showers (C64 Graphics)
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240331
+URL:https://csdb.dk/release/?id=241111
+DESCRIPTION:Released by  at Revision 2024\nGraphics by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241111.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255341/leon_revision2024.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release241047
+SUMMARY:Plazmoid (C64 1K Intro)
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240331
+URL:https://csdb.dk/release/?id=241047
+DESCRIPTION:Released by Hokuto Force at Revision 2024\nMusic by
+  Hermit\nDesign by Viti\nCode by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241047.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255276/plazmoid_1kb.zip
+END:VEVENT
+BEGIN:VEVENT
+UID:release241040
+SUMMARY:Join Code7 (C64 Misc.)
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240331
+URL:https://csdb.dk/release/?id=241040
+DESCRIPTION:Released by CODE7\nText by G-Fellow\nMusic by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241040.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255269/C7_Join_CODE7.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release241038
+SUMMARY:Flashback Symposium 2024 Invitation (C64 Invitation)
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240331
+URL:https://csdb.dk/release/?id=241038
+DESCRIPTION:Released by  at Revision 2024\nCode by \nMusic by SigmaZeven\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241038.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255267/flashback-2024-invite.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release241037
+SUMMARY:aCNE (C64 One-File Demo)
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240331
+URL:https://csdb.dk/release/?id=241037
+DESCRIPTION:Released by Insane at Revision 2024\nMusic by Juice\nGraphics
+  by Premium\nCode by Bonefish\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241037.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255266/ins-acne.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release241029
+SUMMARY:4k-2-8-7-5-6 (C64 4K Intro)
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240331
+URL:https://csdb.dk/release/?id=241029
+DESCRIPTION:Released by Excess at Revision 2024\nMusic by GuyGavin\nIdea by
+  Twilight\nCode by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241029.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255257/4k_2-8-7-5-6%5Bex%5D.prg
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255258/Intro_Number_33.sid
+END:VEVENT
+BEGIN:VEVENT
+UID:release241026
+SUMMARY:Mike Mech V1.3 +4D (C64 Crack)
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240331
+URL:https://csdb.dk/release/?id=241026
+DESCRIPTION:Released by Genesis Project\nDocs by hedning\nLinking by
+  Zyron\nOriginal Supply by \nTrainer by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241026.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255254/MikeMech1_3%2B4D-GP.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release241008
+SUMMARY:The Butterfly Effect (C64 Graphics)
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240331
+URL:https://csdb.dk/release/?id=241008
+DESCRIPTION:Released by Extend at Revision 2024\nCode by
+  Copyfault\nGraphics by Sulevi\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241008.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255236/the-butterfly-effect.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release241003
+SUMMARY:Mutant Master +G (C64 Crack)
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240331
+URL:https://csdb.dk/release/?id=241003
+DESCRIPTION:Released by Excess\nDirectory Art by Logiker\nOriginal Supply
+  by Black Beard\nGraphics by Firelord\nLinking by Red Rock\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241003.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255233/Mutant Master%2BG%5BEX%5D.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release241000
+SUMMARY:Escape the Room +S (C64 Crack)
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240331
+URL:https://csdb.dk/release/?id=241000
+DESCRIPTION:Released by Excess\nOriginal Supply by Black Beard\nDocs by Red
+  Rock\nLinking by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241000.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255229/Escape the Room%2BS%5BEX%5D.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240999
+SUMMARY:Shrooms Drummer (C64 Graphics)
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240331
+URL:https://csdb.dk/release/?id=240999
+DESCRIPTION:Released by  at Revision 2024\nGraphics by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240999.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255226/LMan-Shrooms-Drummer.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240997
+SUMMARY:Quests + (C64 Crack)
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240331
+URL:https://csdb.dk/release/?id=240997
+DESCRIPTION:Released by Excess\nDirectory Art by Logiker\nOriginal Supply
+  by Sentinel\nLinking by Red Rock\nTrainer by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240997.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255227/Quests%2B%5BEX%5D.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240989
+SUMMARY:Tutankham Returns V1.1 +5D (C64 Crack)
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240331
+URL:https://csdb.dk/release/?id=240989
+DESCRIPTION:Released by Genesis Project\nLinking by Zyron\nOriginal Supply
+  by \nTrainer by \nDocs by hedning\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240989.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255216/TutankhamReturnsV1_1%2B5D-GP.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240980
+SUMMARY:1. Civis Mikroklub Invitro (C64 Invitation)
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240331
+URL:https://csdb.dk/release/?id=240980
+DESCRIPTION:Released by \nMusic by Jammer\nGraphics by \nCode by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240980.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255404/1civismikroklub.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240978
+SUMMARY:Happy Boing Easter! (C64 Graphics)
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240331
+URL:https://csdb.dk/release/?id=240978
+DESCRIPTION:Released by Elysium\nIdea by Jetboy\nGraphics by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240978.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255204/happy_b_easter.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240976
+SUMMARY:Tutankham V1.1 +5D (C64 Crack)
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240331
+URL:https://csdb.dk/release/?id=240976
+DESCRIPTION:Released by Genesis Project\nDocs by hedning\nLinking by
+  Zyron\nOriginal Supply by \nTrainer by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240976.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255202/TutankhamV1_1%2B5D-GP.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240974
+SUMMARY:Key Maze +3DT (C64 Crack)
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240331
+URL:https://csdb.dk/release/?id=240974
+DESCRIPTION:Released by Cracker Force Nijmegen\nTest by Exile\nOriginal
+  Supply by \nGraphics by \nTest by ADD\nTest by LKP\nBug-Fix by \nLinking
+  by \nTrainer by \nCrack by \nTranslation by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240974.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255201/Key Maze %2B3DT.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release241046
+SUMMARY:There Is No Justice! (C64 Graphics)
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240330
+URL:https://csdb.dk/release/?id=241046
+DESCRIPTION:Released by MXM at Revision 2024\nGraphics by Futuretro\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241046.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255275/justice.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release241045
+SUMMARY:U-MOD3L (C64 Graphics)
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240330
+URL:https://csdb.dk/release/?id=241045
+DESCRIPTION:Released by N3U at Revision 2024\nGraphics by juN3bula\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241045.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255274/u-mod3l.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release241043
+SUMMARY:Spin\, Crazy World (C64 Music)
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240330
+URL:https://csdb.dk/release/?id=241043
+DESCRIPTION:Released by  at Revision 2024\nMusic by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241043.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255273/lft-spin-crazy-world.zip
+END:VEVENT
+BEGIN:VEVENT
+UID:release241039
+SUMMARY:I Wish I Was at Revision (C64 Music)
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240330
+URL:https://csdb.dk/release/?id=241039
+DESCRIPTION:Released by Finnish Gold at Revision 2024\nCharset by
+  Proton\nText by \nMusic by \nCode by \nGraphics by Pal\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/241000/241039.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255268/iwishiwas_fig.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240993
+SUMMARY:Kuusamon kiehinen [2sid] (C64 Music)
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240330
+URL:https://csdb.dk/release/?id=240993
+DESCRIPTION:Released by Gorbat Soft at Revision 2024\nMusic by
+  Moraff\nGraphics by Hexhog\nCode by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240993.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255220/kiehinen.d64
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255221/kiehinen.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240987
+SUMMARY:Diamond Fever (C64 Graphics)
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240330
+URL:https://csdb.dk/release/?id=240987
+DESCRIPTION:Released by  at Revision 2024\nGraphics by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240987.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255213/Diamond_Fever_DK.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240977
+SUMMARY:The Easter Scrolls (C64 Graphics)
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240330
+URL:https://csdb.dk/release/?id=240977
+DESCRIPTION:Released by Amid at Revision 2024\nGraphics by Drees\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240977.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255203/the_easter_scrolls_by_drees_of_amid.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240973
+SUMMARY:Gas Station Murder (C64 Graphics)
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240330
+URL:https://csdb.dk/release/?id=240973
+DESCRIPTION:Released by  at Revision 2024\nGraphics by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240973.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255199/LMan-Gas-Station-Murder.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240967
+SUMMARY:HF Logo (C64 Graphics)
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240330
+URL:https://csdb.dk/release/?id=240967
+DESCRIPTION:Released by Hokuto Force\nGraphics by BYB\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240967.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255193/HF-LOGO.D64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240946
+SUMMARY:Power Pong +D (C64 Crack)
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240330
+URL:https://csdb.dk/release/?id=240946
+DESCRIPTION:Released by Triad\nTest by Skyhawk\nDocs by Lynx\nLinking by
+  \nOriginal Supply by Taper\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240946.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255166/Power_pong_plus_D_TRIAD.zip
+END:VEVENT
+BEGIN:VEVENT
+UID:release240943
+SUMMARY:JC64dis 2.9 (Other Platform C64 Tool)
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240330
+URL:https://csdb.dk/release/?id=240943
+DESCRIPTION:Released by Ice Team\nCode by Ice00\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240943.png
+ATTACH;FMTTYPE=application/octet-stream:https://github.com/ice00/jc64/relea
+ ses/download/2.9/jc64dis-java.zip
+END:VEVENT
+BEGIN:VEVENT
+UID:release240942
+SUMMARY:The Best 3 (C64 Music Collection)
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240330
+URL:https://csdb.dk/release/?id=240942
+DESCRIPTION:Released by CODE7\nIdea by G-Fellow\nText by \nMusic by
+  \nGraphics by The Typhoon\nDesign by Richard\nCharset by \nCode by
+  \nCharset by BokanoiD\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240942.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255163/C7_The_Best_3.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240927
+SUMMARY:png2prg 1.6 (Other Platform C64 Tool)
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240330
+URL:https://csdb.dk/release/?id=240927
+DESCRIPTION:Released by \nCode by \n
+ATTACH;FMTTYPE=image/png:
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255147/png2prg-1.6.zip
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255148/examples.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240925
+SUMMARY:Intro-slapped (C64 Intro)
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240330
+URL:https://csdb.dk/release/?id=240925
+DESCRIPTION:Released by Vision\nGraphics by Hein\nCode by \nMusic by EVS\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240925.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255144/neo.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240922
+SUMMARY:Legend of Wilf +1D (C64 Crack)
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240330
+URL:https://csdb.dk/release/?id=240922
+DESCRIPTION:Released by Laxity\nDocs by O'Dog\nOriginal Supply by \nTrainer
+  by \nCrack by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240922.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255142/Legend_of_Wilf_%2B1D_LAXITY.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240921
+SUMMARY:Tunnelrun! +1G (C64 Crack)
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240330
+URL:https://csdb.dk/release/?id=240921
+DESCRIPTION:Released by Hokuto Force\nTest by E$G\nLinking by \nOriginal
+  Supply by \nTrainer by TheFatman\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240921.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255141/tunnelrun %2B1g_hf.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240918
+SUMMARY:ALBERT 1.1.2 (Other Platform C64 Tool)
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240330
+URL:https://csdb.dk/release/?id=240918
+DESCRIPTION:Released by Hokuto Force\nHelp by Flavioweb\nTest by The
+  Sarge\nDesign by \nGraphics by \nCode by The Chaos Engineer\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240918.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255137/ALBERT-1.1.2-win64-portable.zip
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255138/ALBERT-1.1.2-darwin-x86_64.dmg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240911
+SUMMARY:Tunnelrun! (C64 1K Game)
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240329
+URL:https://csdb.dk/release/?id=240911
+DESCRIPTION:Released by \nCode by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240911.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255130/tunnelrun.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240907
+SUMMARY:The Chaos Engine Preview 2 +1D (C64 Crack)
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240329
+URL:https://csdb.dk/release/?id=240907
+DESCRIPTION:Released by Quantum\nDirectory Art by Logiker\nDocs by
+  Stormfront\nTrainer by \nOriginal Supply by Faayd\nTrainer by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240907.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255125/The Chaos Engine Preview 2 %2B1D QUANTUM.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240906
+SUMMARY:Kondi Krush +1D (C64 Crack)
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240329
+URL:https://csdb.dk/release/?id=240906
+DESCRIPTION:Released by Quantum\nDocs by Stormfront\nTrainer by \nOriginal
+  Supply by Ghost\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240906.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255124/Kondi Krush %2B1D QUANTUM.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240905
+SUMMARY:c2 Cross Assembler 0.6.4 (Other Platform C64 Tool)
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240329
+URL:https://csdb.dk/release/?id=240905
+DESCRIPTION:Released by \nCode by MonstersGoBoom\nCode by Lavazza\nCode by
+  \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240905.png
+ATTACH;FMTTYPE=application/octet-stream:https://binarybone.com/c2/c2_0.6.4_
+ mingw_win64.zip
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255123/c2-0.6.4.tar.gz
+END:VEVENT
+BEGIN:VEVENT
+UID:release240902
+SUMMARY:Happy Easter 2024! (C64 Graphics)
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240329
+URL:https://csdb.dk/release/?id=240902
+DESCRIPTION:Released by Elysium\nIdea by Jetboy\nGraphics by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240902.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255120/happyeaster.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240895
+SUMMARY:Fria bad Bulletin Board System (C64 Graphics)
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240329
+URL:https://csdb.dk/release/?id=240895
+DESCRIPTION:Released by ibex-crew\nGraphics by t0m3000\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240895.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255112/fria bad bbs.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240892
+SUMMARY:Horizon - Initium Novum (C64 Graphics)
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240329
+URL:https://csdb.dk/release/?id=240892
+DESCRIPTION:Released by  at C64GFX.com CharSet Logo Compo 2024\nGraphics by
+  \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240892.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255109/Horizon_-_Initium_Novum.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240891
+SUMMARY:MHD 2024 (C64 One-File Demo)
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240329
+URL:https://csdb.dk/release/?id=240891
+DESCRIPTION:Released by Mayday! at Mayday! Holsten Division\nText by
+  GI-Joe\nCode by \nText by LZwerch\nGraphics by \nText by TheRyk\nText by
+  RÃ¸ly\nText by Picrard\nMusic by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240891.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255107/mhd2024.prg
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255180/all_clear_1.0.sid
+END:VEVENT
+BEGIN:VEVENT
+UID:release240890
+SUMMARY:Booze Design 250 Chars Logo (C64 Graphics)
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240329
+URL:https://csdb.dk/release/?id=240890
+DESCRIPTION:Released by Lepsi De at C64GFX.com CharSet Logo Compo
+  2024\nGraphics by Katon\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240890.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255108/BOOZE DESIGN KTN.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240908
+SUMMARY:PlayEm64 V1.3 (C64 Music Collection)
+DTSTART;VALUE=DATE:20240328
+DTEND;VALUE=DATE:20240328
+URL:https://csdb.dk/release/?id=240908
+DESCRIPTION:Released by Mayday! at Mayday! Holsten Division\nIdea by
+  RÃ¸ly\nCode by TheRyk\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240908.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255126/PlayEmV1_3.zip
+END:VEVENT
+BEGIN:VEVENT
+UID:release240875
+SUMMARY:Herby +3D (C64 Crack)
+DTSTART;VALUE=DATE:20240328
+DTEND;VALUE=DATE:20240328
+URL:https://csdb.dk/release/?id=240875
+DESCRIPTION:Released by Cracker Force Nijmegen\nTest by ADD\nTest by
+  Exile\nOriginal Supply by \nGraphics by \nLinking by LKP\nTrainer by
+  \nCrack by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240875.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255093/Herby %2B3D.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240850
+SUMMARY:Avventura 1 (Fantasy) - Versione Commerciale (C64 Game)
+DTSTART;VALUE=DATE:20240328
+DTEND;VALUE=DATE:20240328
+URL:https://csdb.dk/release/?id=240850
+DESCRIPTION:Released by \nMusic by \nCode by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240850.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255423/Avventura1_Fantasy-sources.zip
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255062/Avventura1_Fantasy_Italiano.d64
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255061/Avventura1_Fantasy_English.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240822
+SUMMARY:Blazon Graffiti Logo (C64 Graphics)
+DTSTART;VALUE=DATE:20240328
+DTEND;VALUE=DATE:20240328
+URL:https://csdb.dk/release/?id=240822
+DESCRIPTION:Released by Blazon\nGraphics by Freeze\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240822.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255030/blazon_graffiti.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240821
+SUMMARY:6Fourdle &G (C64 Crack)
+DTSTART;VALUE=DATE:20240328
+DTEND;VALUE=DATE:20240328
+URL:https://csdb.dk/release/?id=240821
+DESCRIPTION:Released by Hokuto Force\nTest by E$G\nTest by MP Soft\nHelp by
+  \nLinking by \nOriginal Supply by Black Beard\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240821.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255029/6fourdle_hf.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240812
+SUMMARY:Pretzel Logic Charset Logo (C64 Graphics)
+DTSTART;VALUE=DATE:20240327
+DTEND;VALUE=DATE:20240327
+URL:https://csdb.dk/release/?id=240812
+DESCRIPTION:Released by Pretzel Logic at C64GFX.com CharSet Logo Compo
+  2024\nGraphics by Mikael\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240812.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255019/pl-chlogo-mikael.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240807
+SUMMARY:A1RL0CK (C64 Crack)
+DTSTART;VALUE=DATE:20240327
+DTEND;VALUE=DATE:20240327
+URL:https://csdb.dk/release/?id=240807
+DESCRIPTION:Released by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240807.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255011/A1RL0CK-LidL.d64
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255012/A1RL0CK_solution_by_Garry_Francis.txt
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255013/A1RL0CK_map_by_Garry_Francis.png
+END:VEVENT
+BEGIN:VEVENT
+UID:release240804
+SUMMARY:Unlikely Coincidence (C64 Music)
+DTSTART;VALUE=DATE:20240327
+DTEND;VALUE=DATE:20240327
+URL:https://csdb.dk/release/?id=240804
+DESCRIPTION:Released by MoonShine\nGraphics by Mythus\nDesign by
+  DeMOSic\nCode by \nMusic by Lolodachi\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240804.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255005/Unlikely Coincidence.prg
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255006/Unlikely Coincidence.sid
+END:VEVENT
+BEGIN:VEVENT
+UID:release240803
+SUMMARY:Ellie The Fairy (C64 Music)
+DTSTART;VALUE=DATE:20240327
+DTEND;VALUE=DATE:20240327
+URL:https://csdb.dk/release/?id=240803
+DESCRIPTION:Released by MoonShine\nGraphics by Mythus\nDesign by
+  DeMOSic\nCode by \nMusic by Lolodachi\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240803.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255004/Ellie The Fairy.prg
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255003/Ellie The Fairy.sid
+END:VEVENT
+BEGIN:VEVENT
+UID:release240802
+SUMMARY:Slayer +8DH (C64 Crack)
+DTSTART;VALUE=DATE:20240327
+DTEND;VALUE=DATE:20240327
+URL:https://csdb.dk/release/?id=240802
+DESCRIPTION:Released by Hokuto Force\nTest by Wolf\nDocs by \nBug-Fix by
+  \nLinking by \nOriginal Supply by \nTrainer by \nCrack by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240802.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255002/SLAYER%2B8DH.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240801
+SUMMARY:Elysium FujiColor - Charmode (C64 Graphics)
+DTSTART;VALUE=DATE:20240327
+DTEND;VALUE=DATE:20240327
+URL:https://csdb.dk/release/?id=240801
+DESCRIPTION:Released by Elysium at C64GFX.com CharSet Logo Compo
+  2024\nGraphics by Digger\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240801.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255001/elysium-fujicolor-223-chars.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240789
+SUMMARY:Hokuto Gold - PETSCII (C64 Graphics)
+DTSTART;VALUE=DATE:20240326
+DTEND;VALUE=DATE:20240326
+URL:https://csdb.dk/release/?id=240789
+DESCRIPTION:Released by Hokuto Force at C64GFX.com CharSet Logo Compo
+  2024\nGraphics by Manganoid\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240789.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254988/Hokuto Gold-PETSCII.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240788
+SUMMARY:TempesT - The Forest - PETSCII (C64 Graphics)
+DTSTART;VALUE=DATE:20240326
+DTEND;VALUE=DATE:20240326
+URL:https://csdb.dk/release/?id=240788
+DESCRIPTION:Released by TempesT at C64GFX.com CharSet Logo Compo
+  2024\nGraphics by Manganoid\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240788.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254987/TempesT-The Forest-PETSCII.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240765
+SUMMARY:Static: Flowerhorn Attack Preview +2D (C64 Crack)
+DTSTART;VALUE=DATE:20240326
+DTEND;VALUE=DATE:20240326
+URL:https://csdb.dk/release/?id=240765
+DESCRIPTION:Released by Blazon\nDocs by Sleeper\nLinking by \nTrainer by
+  \nTest by Dreamer\nOriginal Supply by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240765.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254964/Static Flowerhorn Attack Preview %2B2D %5BBLZ%5D.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240764
+SUMMARY:Neptun Bright Focus (C64 Graphics)
+DTSTART;VALUE=DATE:20240326
+DTEND;VALUE=DATE:20240326
+URL:https://csdb.dk/release/?id=240764
+DESCRIPTION:Released by ibex-crew\nGraphics by t0m3000\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240764.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254963/Neptun Bright Fokus - PETSCII.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240760
+SUMMARY:For Her I Can Beâ€¦ a Hero! (C64 Graphics)
+DTSTART;VALUE=DATE:20240326
+DTEND;VALUE=DATE:20240326
+URL:https://csdb.dk/release/?id=240760
+DESCRIPTION:Released by \nGraphics by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240760.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254959/themaxx.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240759
+SUMMARY:Pointy Float (C64 Music)
+DTSTART;VALUE=DATE:20240326
+DTEND;VALUE=DATE:20240326
+URL:https://csdb.dk/release/?id=240759
+DESCRIPTION:Released by The Supply Team\nMusic by SIDWAVE\nCode by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240759.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254956/pointy_float-tst.prg
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254957/Pointy_Float.sid
+END:VEVENT
+BEGIN:VEVENT
+UID:release240748
+SUMMARY:Looter - Haunted Castle Preview 2 + (C64 Crack)
+DTSTART;VALUE=DATE:20240325
+DTEND;VALUE=DATE:20240325
+URL:https://csdb.dk/release/?id=240748
+DESCRIPTION:Released by Excess\nDirectory Art by Logiker\nOriginal Supply
+  by Black Beard\nLinking by Red Rock\nTrainer by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240748.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254945/Looter - Haunted Castle Preview%2B %5BEX%5D.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240747
+SUMMARY:Gridlock +3 (C64 Crack)
+DTSTART;VALUE=DATE:20240325
+DTEND;VALUE=DATE:20240325
+URL:https://csdb.dk/release/?id=240747
+DESCRIPTION:Released by Laxity\nLinking by O'Dog\nOriginal Supply by
+  \nTrainer by \nLoader by 6R6\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240747.gif
+END:VEVENT
+BEGIN:VEVENT
+UID:release240746
+SUMMARY:Firefly Crew (C64 Graphics)
+DTSTART;VALUE=DATE:20240325
+DTEND;VALUE=DATE:20240325
+URL:https://csdb.dk/release/?id=240746
+DESCRIPTION:Released by Hokuto Force\nGraphics by Slaxx\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240746.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254943/firefly-crew.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240738
+SUMMARY:GR GOLD Loader (C64 Music)
+DTSTART;VALUE=DATE:20240325
+DTEND;VALUE=DATE:20240325
+URL:https://csdb.dk/release/?id=240738
+DESCRIPTION:Released by Hokuto Force\nGraphics by DJ Space\nMusic by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240738.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254933/djspace_gr_gold.sid
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254934/djspace_gr_loader.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240739
+SUMMARY:Rotor Rampage +5 (C64 Crack)
+DTSTART;VALUE=DATE:20240324
+DTEND;VALUE=DATE:20240324
+URL:https://csdb.dk/release/?id=240739
+DESCRIPTION:Released by Genesis Project\nTest by Paladin\nTest by
+  Dymo\nOriginal Supply by hedning\nLinking by Six\nTrainer by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240739.gif
+END:VEVENT
+BEGIN:VEVENT
+UID:release240721
+SUMMARY:Basic Compo at Zoo 2024 Unofficial Invitation (C64 Basic Demo)
+DTSTART;VALUE=DATE:20240324
+DTEND;VALUE=DATE:20240324
+URL:https://csdb.dk/release/?id=240721
+DESCRIPTION:Released by Hackers at KozMOS2024\nMusic by Ash Checksum\nCode
+  by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240721.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254914/invitation-zooparty-basic-compo.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240712
+SUMMARY:Dua Lipa - Houdini (C64 Music)
+DTSTART;VALUE=DATE:20240324
+DTEND;VALUE=DATE:20240324
+URL:https://csdb.dk/release/?id=240712
+DESCRIPTION:Released by Quantum\nMusic by Nordischsound\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240712.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254905/Houdini.sid
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254904/Houdini.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240709
+SUMMARY:CodeLight Intro V2 (C64 Crack Intro)
+DTSTART;VALUE=DATE:20240324
+DTEND;VALUE=DATE:20240324
+URL:https://csdb.dk/release/?id=240709
+DESCRIPTION:Released by CODE7\nGraphics by Toxic\nCode by \nHelp by
+  BYB\nDirectory Art by G-Fellow\nMusic by David Hanlon\nDesign by
+  Gollum\nDesign by Woodo\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240709.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254900/CodeLight_IntroV2.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240708
+SUMMARY:OCP Logo (C64 Graphics)
+DTSTART;VALUE=DATE:20240324
+DTEND;VALUE=DATE:20240324
+URL:https://csdb.dk/release/?id=240708
+DESCRIPTION:Released by \nGraphics by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240708.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254899/ocp.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240701
+SUMMARY:Sylvia (C64 Music)
+DTSTART;VALUE=DATE:20240324
+DTEND;VALUE=DATE:20240324
+URL:https://csdb.dk/release/?id=240701
+DESCRIPTION:Released by  at KozMOS2024\nMusic by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240701.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254891/Sylvia %28Emmanuelle%29.sid
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254890/Sylvia.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240698
+SUMMARY:Gridlock + (C64 Crack)
+DTSTART;VALUE=DATE:20240324
+DTEND;VALUE=DATE:20240324
+URL:https://csdb.dk/release/?id=240698
+DESCRIPTION:Released by Laxity\nLoader by 6R6\nLinking by O'Dog\nOriginal
+  Supply by \nTrainer by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240698.gif
+END:VEVENT
+BEGIN:VEVENT
+UID:release240697
+SUMMARY:Multipaint 2024 (Other Platform C64 Tool)
+DTSTART;VALUE=DATE:20240324
+DTEND;VALUE=DATE:20240324
+URL:https://csdb.dk/release/?id=240697
+DESCRIPTION:Released by \nCode by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240697.png
+ATTACH;FMTTYPE=application/octet-stream:http://multipaint.kameli.net/multip
+ aint_24_3_2024.zip
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254932/mpsource_24_03_2024.zip
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254931/multipaint_24_3_2024.zip
+END:VEVENT
+BEGIN:VEVENT
+UID:release240696
+SUMMARY:BOOZE Charset Logo (C64 Graphics)
+DTSTART;VALUE=DATE:20240324
+DTEND;VALUE=DATE:20240324
+URL:https://csdb.dk/release/?id=240696
+DESCRIPTION:Released by Booze Design at C64GFX.com CharSet Logo Compo
+  2024\nGraphics by Mirage\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240696.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254887/boozecharset.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240684
+SUMMARY:Awakening (C64 Graphics)
+DTSTART;VALUE=DATE:20240324
+DTEND;VALUE=DATE:20240324
+URL:https://csdb.dk/release/?id=240684
+DESCRIPTION:Released by Yleisradio at KozMOS2024\nGraphics by Dick in son\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240684.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254898/awakening_yle.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240683
+SUMMARY:Yleinen Tiedonanto (C64 Graphics)
+DTSTART;VALUE=DATE:20240324
+DTEND;VALUE=DATE:20240324
+URL:https://csdb.dk/release/?id=240683
+DESCRIPTION:Released by Yleisradio at KozMOS2024\nGraphics by Hetkinen\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240683.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254874/yleinen_tiedonanto_yle.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240681
+SUMMARY:Jump (C64 Graphics)
+DTSTART;VALUE=DATE:20240324
+DTEND;VALUE=DATE:20240324
+URL:https://csdb.dk/release/?id=240681
+DESCRIPTION:Released by Yleisradio at KozMOS2024\nGraphics by Pingis Khan\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240681.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254871/jump_yle.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240680
+SUMMARY:Kryysis (C64 Graphics)
+DTSTART;VALUE=DATE:20240324
+DTEND;VALUE=DATE:20240324
+URL:https://csdb.dk/release/?id=240680
+DESCRIPTION:Released by Extend at KozMOS2024\nGraphics by Electric\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240680.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254870/kryysis_ext.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240679
+SUMMARY:Frogger Rags (C64 Music)
+DTSTART;VALUE=DATE:20240324
+DTEND;VALUE=DATE:20240324
+URL:https://csdb.dk/release/?id=240679
+DESCRIPTION:Released by Hokuto Force\nMusic by DJ Space\nGraphics by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240679.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254869/djspace_frogger_rags.sid
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254868/djspace_frogger_rags.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240787
+SUMMARY:Hiihtaejae (C64 Graphics)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240787
+DESCRIPTION:Released by Hiihtoliitto at KozMOS2024\nGraphics by
+  Hemohespiikki\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240787.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254986/010_hemohespiikki-hiihtaejae.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240786
+SUMMARY:Surinaa6581 (C64 Music)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240786
+DESCRIPTION:Released by  at KozMOS2024\nCode by \n
+ATTACH;FMTTYPE=image/png:
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254985/032_surinaa6581.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240785
+SUMMARY:MaailmaOlisiParempiIlmanTaetaeEntryae (C64 Graphics)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240785
+DESCRIPTION:Released by Yleisradio at KozMOS2024\nText by Hetkinen\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240785.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254984/021_MaailmaOlisiParempiIlmanTaetaeEntryae-HetkinenOfYle.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240784
+SUMMARY:Ducen Entry (C64 Basic Demo)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240784
+DESCRIPTION:Released by  at KozMOS2024\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240784.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254983/005_ducen entry.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240783
+SUMMARY:Jazz6581 (C64 Music)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240783
+DESCRIPTION:Released by  at KozMOS2024\nCode by \n
+ATTACH;FMTTYPE=image/png:
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254982/013_jazz6581.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240782
+SUMMARY:Hallitusohjelma (C64 Graphics)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240782
+DESCRIPTION:Released by Yleisradio at KozMOS2024\nGraphics by Hektinen\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240782.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254981/008_hallitusohjelma_by_hektinen_of_yle.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240780
+SUMMARY:Negative Zebra (C64 Basic Demo)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240780
+DESCRIPTION:Released by Yleisradio at KozMOS2024\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240780.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254979/025_negative_zebra_of_yle.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240779
+SUMMARY:Tupaqq (C64 Demo)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240779
+DESCRIPTION:Released by  at KozMOS2024\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240779.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254978/034_tupaqq.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240778
+SUMMARY:Melkein valmis plasma efekti (C64 Demo)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240778
+DESCRIPTION:Released by The Philishave Grew at KozMOS2024\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240778.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254977/023_melkein_valmis_plasma_efekti_ninja_samurai_philishave.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240776
+SUMMARY:Bumpzi (C64 Graphics)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240776
+DESCRIPTION:Released by Extend at KozMOS2024\nGraphics by Ziili\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240776.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254975/004_bumpzi.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240775
+SUMMARY:Can.t Ski (C64 Music)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240775
+DESCRIPTION:Released by  at KozMOS2024\nMusic by Hemohespiikki\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240775.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254974/009_hemohespiikki-cantski_8580.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240774
+SUMMARY:Matopeli (C64 Basic Demo)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240774
+DESCRIPTION:Released by  at KozMOS2024\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240774.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254973/022_matopeli.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240773
+SUMMARY:Bistro Tuhero (C64 Music)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240773
+DESCRIPTION:Released by Dekadence at KozMOS2024\nMusic by Spiikki\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240773.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254972/031_spiikki-bistro_tuhero_8580.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240772
+SUMMARY:S.O.T. II (C64 Basic Demo)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240772
+DESCRIPTION:Released by Yleisradio at KozMOS2024\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240772.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254971/030_sot ii yle.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240771
+SUMMARY:Nostalgia (C64 Basic Demo)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240771
+DESCRIPTION:Released by Yleisradio at KozMOS2024\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240771.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254970/028_nostalgia.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240770
+SUMMARY:Karpolla on stasia! (C64 Basic Demo)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240770
+DESCRIPTION:Released by Yleisradio at KozMOS2024\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240770.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254969/016_karpolla on stasia%21-yle.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240769
+SUMMARY:2hero (C64 One-File Demo)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240769
+DESCRIPTION:Released by Complex at KozMOS2024\nMusic by Jugi\nCode by
+  Jmagic\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240769.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254967/001_2hero.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240767
+SUMMARY:Saunakeppijumppa (C64 Game)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240767
+DESCRIPTION:Released by  at KozMOS2024\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240767.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254966/029_saunakeppijumppa.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240718
+SUMMARY:Dukenukemifying.the.chargen.ppt (C64 Misc.)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240718
+DESCRIPTION:Released by Hiihtoliitto at KozMOS2024\nConcept by Michelangelo
+  of Turtles\nIdea by \nText by \nGraphics by \nMusic by Van Damme\nCode by
+  Ash Checksum\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240718.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254911/dukenukemifying.the.chargen.ppt.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240706
+SUMMARY:Arcade Logo (C64 Graphics)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240706
+DESCRIPTION:Released by Extend at KozMOS2024\nGraphics by Duce\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240706.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254896/logo-arcade-final-2c-final-final-fixed.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240676
+SUMMARY:CodeLight Intro (C64 Crack Intro)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240676
+DESCRIPTION:Released by CODE7\nDirectory Art by G-Fellow\nNTSC-Fix by
+  Toxic\nText by \nGraphics by \nCode by \nMusic by David Hanlon\nHelp by
+  BYB\nDesign by Gollum\nDesign by Woodo\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240676.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254865/CodeLight_Intro.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240675
+SUMMARY:Never Give Up (C64 Graphics)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240675
+DESCRIPTION:Released by Gorbat Soft at KozMOS2024\nGraphics by Hani\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240675.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254864/NeverGiveUp.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240674
+SUMMARY:Kuusneppis Preview (C64 Game Preview)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240674
+DESCRIPTION:Released by Artline Designs at KozMOS2024\nTest by ibux\nTest
+  by Jangler\nTest by Frostbyte\nMusic by Flotsam\nGraphics by Sulevi\nCode
+  by jab\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240674.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254863/kuusneppis_preview.prg
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254968/Kuusneppis.sid
+END:VEVENT
+BEGIN:VEVENT
+UID:release240673
+SUMMARY:Voimaelaein (C64 Graphics)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240673
+DESCRIPTION:Released by Con Artists at KozMOS2024\nGraphics by Hexhog\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240673.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254862/hexhog_voimaelaein.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240671
+SUMMARY:Mental Geist (C64 Music)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240671
+DESCRIPTION:Released by Gorbat Soft at KozMOS2024\nGraphics by Hexhog\nCode
+  by \nMusic by Moraff\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240671.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254861/moraff_mental-geist.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240669
+SUMMARY:Badmood (C64 One-File Demo)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240669
+DESCRIPTION:Released by Gorbat Soft at KozMOS2024\nGraphics by Hani\nMusic
+  by Moraff\nIdea by Hexhog\nGraphics by \nCode by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240669.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254858/badmood.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240667
+SUMMARY:Spring at KozMOS (C64 Music)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240667
+DESCRIPTION:Released by  at KozMOS2024\nMusic by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240667.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254856/jope-spring.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240665
+SUMMARY:4ever Yours (C64 Graphics)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240665
+DESCRIPTION:Released by Extend at KozMOS2024\nGraphics by Sulevi\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240665.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254852/4ever-yours.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240664
+SUMMARY:Vapauttaja (C64 Graphics)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240664
+DESCRIPTION:Released by Artline Designs at KozMOS2024\nGraphics by Aomeba\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240664.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254853/vapauttaja_aomeba_ald.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240663
+SUMMARY:KyÃ¶pelinvuorella (C64 Graphics)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240663
+DESCRIPTION:Released by  at KozMOS2024\nGraphics by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240663.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254851/kyopelinvuorella.petmate
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254849/kyopelinvuorella.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240661
+SUMMARY:ZODIAC COMBO (C64 Graphics)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240661
+DESCRIPTION:Released by ibex-crew\nGraphics by t0m3000\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240661.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254847/zodiac combo.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240660
+SUMMARY:Amazing Star 2024 (C64 Music)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240660
+DESCRIPTION:Released by CODE7\nCode by Met\nCode by Snoky\nMusic by
+  G-Fellow\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240660.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254846/C7_Amazing_Star_2024.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240659
+SUMMARY:Night Mission Pinball Extended (C64 Game)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240659
+DESCRIPTION:Released by Extend at KozMOS2024\nTest by Grue\nPAL-Fix by
+  \nDocs by \nBug-Fix by \nLoader by \nNTSC-Fix by \nIdea by \nText by
+  \nCrack by \nCode by \nTest by Kakka\nDirectory Art by \nMusic by The
+  Beasty Boy\nTest by Argon\nIdea by \nTest by Rakki\nHelp by \nDocs by
+  \nText by \nTest by Trurl\nCode by Barfly\nHelp by TNT\nCode by
+  \nGraphics by Duce\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240659.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254845/nmpinball.zip
+END:VEVENT
+BEGIN:VEVENT
+UID:release240651
+SUMMARY:Contex Logo 1989 (C64 Graphics)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240651
+DESCRIPTION:Released by Artline Designs at C64GFX.com CharSet Logo Compo
+  2024\nGraphics by Flex\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240651.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254837/ALD_Contex_Logo_1989.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240649
+SUMMARY:Two Bonzai Coders Not Handled (C64 Graphics)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240649
+DESCRIPTION:Released by Bonzai at C64GFX.com CharSet Logo Compo
+  2024\nGraphics by Fox\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240649.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254835/TwoBonzaiCodersNotHandled_BZ.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240648
+SUMMARY:Bagman Strikes Back V1.3 +3D (C64 Crack)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240648
+DESCRIPTION:Released by Laxity\nDocs by O'Dog\nLinking by \nOriginal Supply
+  by \nTrainer by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240648.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254834/Bagman_strikes_back_%28Bagman_2%29_V1.3_%2B3D_LAXITY.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240647
+SUMMARY:Bagman Comes Back V1.3 +3D (C64 Crack)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240647
+DESCRIPTION:Released by Laxity\nDocs by O'Dog\nLinking by \nOriginal Supply
+  by \nTrainer by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240647.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254832/Bagman_comes_back_V1.3_%2B3D_LAXITY.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240646
+SUMMARY:Lady Pac V1.9 +2 (C64 Crack)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240646
+DESCRIPTION:Released by Laxity\nLinking by O'Dog\nOriginal Supply by
+  \nTrainer by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240646.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254831/Lady_Pac_V1.9_%2B%2B_LAXITY.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240643
+SUMMARY:Blastermania 4.2 (C64 Music Collection)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240643
+DESCRIPTION:Released by CODE7\nConcept by Toxic\nRipping by \nIdea by
+  \nLinking by \nDesign by \nCharset by \nGraphics by \nCode by \nDirectory
+  Art by \nHelp by Byte Blaster\nGraphics by \nMusic by David Hanlon\nMusic
+  by Thomas Detert\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240643.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254829/Blastermania4.2.D64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240634
+SUMMARY:Night Breed +6DGI (C64 Crack)
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240323
+URL:https://csdb.dk/release/?id=240634
+DESCRIPTION:Released by Hokuto Force\nTest by Wolf\nDocs by \nRipping by
+  \nLinking by \nOriginal Supply by \nTrainer by \nCrack by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240634.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254818/NIGHT_BREED%2B6DGI.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240630
+SUMMARY:ORWO (C64 Graphics)
+DTSTART;VALUE=DATE:20240322
+DTEND;VALUE=DATE:20240322
+URL:https://csdb.dk/release/?id=240630
+DESCRIPTION:Released by ibex-crew\nGraphics by t0m3000\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240630.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254814/ORWO - PETSCII.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240626
+SUMMARY:The Buried Citadel &SMap (C64 Crack)
+DTSTART;VALUE=DATE:20240322
+DTEND;VALUE=DATE:20240322
+URL:https://csdb.dk/release/?id=240626
+DESCRIPTION:Released by Genesis Project\nOriginal Supply by hedning\nTest
+  by Skinkenstein\nTest by Zyron\nBug-Fix by \nLinking by \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240626.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254812/The_Buried_Citadel-GP.zip
+END:VEVENT
+BEGIN:VEVENT
+UID:release240625
+SUMMARY:Congo Bongo +5DGHM 101% (C64 Crack)
+DTSTART;VALUE=DATE:20240322
+DTEND;VALUE=DATE:20240322
+URL:https://csdb.dk/release/?id=240625
+DESCRIPTION:Released by Raiders of the Lost Empire\nDocs by Holy
+  Moses\nBug-Fix by \nTrainer by \nCrack by \nGraphics by \nCode by \nMusic
+  by Roy\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240625.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254810/congobongo.D64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240624
+SUMMARY:35th Anniversary Intro (C64 Crack Intro)
+DTSTART;VALUE=DATE:20240322
+DTEND;VALUE=DATE:20240322
+URL:https://csdb.dk/release/?id=240624
+DESCRIPTION:Released by Raiders of the Lost Empire\nNTSC-Fix by Holy
+  Moses\nCharset by \nGraphics by \nCode by \nMusic by The Mercenary
+  Cracker\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240624.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254809/35years%21.D64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240617
+SUMMARY:BSG - No6 (C64 Graphics)
+DTSTART;VALUE=DATE:20240322
+DTEND;VALUE=DATE:20240322
+URL:https://csdb.dk/release/?id=240617
+DESCRIPTION:Released by Quantum\nGraphics by Slaxx\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240617.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254802/bsg-no6.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240613
+SUMMARY:CSDB Logo Compo (C64 Graphics)
+DTSTART;VALUE=DATE:20240322
+DTEND;VALUE=DATE:20240322
+URL:https://csdb.dk/release/?id=240613
+DESCRIPTION:Released by Bonzai at C64GFX.com CharSet Logo Compo
+  2024\nGraphics by Fox\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240613.gif
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254797/CSDBLogoCompo_BZ.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240612
+SUMMARY:Donkey Kong Country - Fear Factory (C64 Music)
+DTSTART;VALUE=DATE:20240322
+DTEND;VALUE=DATE:20240322
+URL:https://csdb.dk/release/?id=240612
+DESCRIPTION:Released by Hokuto Force\nMusic by Nordischsound\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240612.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254795/Donkey_Kong_Country_Fear_Factory.sng
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254796/Donkey_Kong_Country_Fear_Factory.sid
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254794/Donkey_Kong_Country_Fear_Factory.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240605
+SUMMARY:KrÃ¦k8 (C64 Graphics)
+DTSTART;VALUE=DATE:20240322
+DTEND;VALUE=DATE:20240322
+URL:https://csdb.dk/release/?id=240605
+DESCRIPTION:Released by  at C64GFX.com CharSet Logo Compo 2024\nGraphics by
+  \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240605.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254799/kr%C3%A6k8.prg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240594
+SUMMARY:Mixin' Maze (C64 Graphics)
+DTSTART;VALUE=DATE:20240321
+DTEND;VALUE=DATE:20240321
+URL:https://csdb.dk/release/?id=240594
+DESCRIPTION:Released by  at C64GFX.com CharSet Logo Compo 2024\nGraphics by
+  \n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240594.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254776/MixinMaze.prg
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254777/MixinMaze_Stages.jpg
+END:VEVENT
+BEGIN:VEVENT
+UID:release240593
+SUMMARY:Where Are the Real SID Tunes? (C64 Music)
+DTSTART;VALUE=DATE:20240321
+DTEND;VALUE=DATE:20240321
+URL:https://csdb.dk/release/?id=240593
+DESCRIPTION:Released by CODE7\nText by G-Fellow\nMusic by \nCode by
+  Richard\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240593.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254775/C7_Where_are_the_real_Sid_tunes.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240580
+SUMMARY:Preview Pack 01 (C64 Game Preview)
+DTSTART;VALUE=DATE:20240321
+DTEND;VALUE=DATE:20240321
+URL:https://csdb.dk/release/?id=240580
+DESCRIPTION:Released by Swimmers\nCode by Dumpster Diver\n
+ATTACH;FMTTYPE=image/png:https://csdb.dk/gfx/releases/240000/240580.png
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /254762/preview_pack_01_SWIMMERS.d64
+END:VEVENT
+BEGIN:VEVENT
+UID:release240949
+SUMMARY:RECOIL 6.4.2 (Other Platform C64 Tool)
+DTSTART;VALUE=DATE:20240309
+DTEND;VALUE=DATE:20240309
+URL:https://csdb.dk/release/?id=240949
+DESCRIPTION:Released by \nCode by \n
+ATTACH;FMTTYPE=image/png:
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255170/recoil-6.4.2-win64.msi
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255173/recoil-xnview_6.4.2-1_amd64.deb
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255171/recoil-6.4.2-android.apk
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255169/recoil-6.4.2-win32.msi
+ATTACH;FMTTYPE=application/octet-stream:https://csdb.dk/getinternalfile.php
+ /255172/recoil-6.4.2-macos.dmg
+END:VEVENT
+END:VCALENDAR
