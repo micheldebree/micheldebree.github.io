@@ -16,7 +16,11 @@ func main() {
 	saveFile("./events.ics", []byte(eventCalendar))
 
 	releaseIds := getItemIds(LatestReleasesRSS)
+	
+	// firstRelease := []string{releaseIds[0]}
+
 	releases := getReleases(releaseIds)
+	// releases := getReleases([]string{"241268"})
 	releaseCalendar := createReleasesCalendar(releases)
 	saveFile("./releases.ics", []byte(releaseCalendar))
 }

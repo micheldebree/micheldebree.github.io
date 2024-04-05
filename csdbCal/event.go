@@ -26,7 +26,7 @@ type EventElement struct {
 // Get one event from the webservice
 func getEvent(id string) EventElement {
 
-	decoder := getItemXMLDecoder(EventType, id)
+	decoder := getItemXMLDecoder(EventType, id, 1)
 
 	var csdbData CSDbData
 	err := decoder.Decode(&csdbData)

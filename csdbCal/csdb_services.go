@@ -16,12 +16,13 @@ type EntryType string
 const (
 	EventType   EntryType = "event"
 	ReleaseType           = "release"
+	ScenerType            = "scener"
 )
 
 const UpcomingEventsRSS = "https://csdb.dk/rss/upcomingevents.php"
 const LatestReleasesRSS = "https://csdb.dk/rss/latestreleases.php"
 
-const ItemUrl = "https://csdb.dk/webservice/?type=%s&id=%s"
+const ItemUrl = "https://csdb.dk/webservice/?type=%s&id=%s&depth=%d"
 const ReleaseUrl = "https://csdb.dk/release/?id=%s"
 
 // XML structure for a CSDb RSS feed
@@ -47,8 +48,8 @@ func getItemIds(url string) []string {
 
 // Fetch a CSDb item of a certain type by id and return an XML decoder
 // for decoding the body
-func getItemXMLDecoder(entryType EntryType, id string) *xml.Decoder {
-	url := fmt.Sprintf(ItemUrl, entryType, id)
+func getItemXMLDecoder(entryType EntryType, id string, depth int) *xml.Decoder {
+	url := fmt.Sprintf(ItemUrl, entryType, id, depth)
 	fmt.Printf("Fetching %s ...\n", url)
 	return getXmlBodyDecoder(url)
 }

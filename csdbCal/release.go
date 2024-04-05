@@ -24,6 +24,7 @@ type ReleaseGroup struct {
 }
 
 type ReleaseCredit struct {
+	ID         string `xml:"Handle>ID"`
 	Handle     string `xml:"Handle>Handle"`
 	CreditType string
 }
@@ -35,16 +36,34 @@ type DownloadLink struct {
 
 func getRelease(id string) ReleaseElement {
 
-	decoder := getItemXMLDecoder(ReleaseType, id)
+	decoder := getItemXMLDecoder(ReleaseType, id, 2)
 
 	var csdbData CSDbDataReleases
 	err := decoder.Decode(&csdbData)
 	abortOnError(err)
 
-	// TODO: handle is not always set in credits,
-	// in that case, fetch the handle by ID
-
 	return csdbData.Release
+}
+
+// If handle is missing from a credit, fetch it from the webservice
+func enrichCredits(releases *[]ReleaseElement) {
+
+	cachedHandles := make(map[string]string)
+
+	for _, release := range *releases {
+		credits := release.Credits
+		for i := 0; i < len(credits); i++ {
+			credit := &credits[i]
+			if len(credit.Handle) == 0 {
+				handle, isCached := cachedHandles[credit.ID]
+				if !isCached {
+					handle = getScener(credit.ID).Handle
+					cachedHandles[credit.ID] = handle
+				}
+				credit.Handle = handle
+			}
+		}
+	}
 }
 
 // Get releases for a list of ids
@@ -53,5 +72,7 @@ func getReleases(ids []string) []ReleaseElement {
 	for i, id := range ids {
 		result[i] = getRelease(id)
 	}
+
+	enrichCredits(&result)
 	return result
 }
