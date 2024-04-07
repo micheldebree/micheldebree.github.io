@@ -11,25 +11,6 @@ DTSTART;VALUE=DATE:20240207
 DTEND;VALUE=DATE:20240430
 END:VEVENT
 BEGIN:VEVENT
-UID:event3405
-SUMMARY:Vintage Computing Carinthia $27
-DESCRIPTION:Meeting
-URL:http://vcc.logiker.com/meetings.html#$27
-LOCATION:Lakeside\, Klagenfurt\, Austria
-DTSTART;VALUE=DATE:20240406
-DTEND;VALUE=DATE:20240406
-END:VEVENT
-BEGIN:VEVENT
-UID:event3398
-SUMMARY:1. Civis Mikroklub
-DESCRIPTION:Meeting
-URL:https://www.facebook.com/civismikro
-LOCATION:Telekom Kraftlab\, Debrecen Bethlen utca 1-9. 3.em.\, Debrecen\,
-  Hungary
-DTSTART;VALUE=DATE:20240406
-DTEND;VALUE=DATE:20240406
-END:VEVENT
-BEGIN:VEVENT
 UID:event3403
 SUMMARY:HCC Meeting April 2024
 DESCRIPTION:8 bit Party
