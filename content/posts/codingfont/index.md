@@ -103,15 +103,3 @@ install both these fonts with:
 ```sh
 brew install font-jetbrains-mono font-iosevka
 ```
-
-## Bonus: dark mode or light mode?
-
-A lot of developers use dark mode (light text on a dark background) for their
-tools. The idea is that it is less tiring for the eyes than the traditional dark
-text on a light background. I used to use dark mode too for this reason, until I
-came to an age where I started to need reading glasses.
-
-I read a post somewhere about the human eye being better suited for dark text on
-a light background (like, for example, books). When there is a lot of light, the
-pupil of your eye gets smaller to let less light in. A smaller pupil gives a
-greater dept
