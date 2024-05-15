@@ -13,6 +13,6 @@ You can also find it on
 [DeepSID](https://deepsid.chordian.net/?file=/MUSICIANS/H/HeatWave/youtH/Bosswing.sid).
 The styling of the video was done using [Retropixels](/posts/retropixels-0-7-1/)
 
-{{< youtube id="f1z3sHpR7R0" autoplay="true" >}}
+{{< youtube id="f1z3sHpR7R0" autoplay="false" >}}
 
 Download [D64 floppy image with DMC 5.1+ and the sourcefile of the tune](bosswing6581-src.d64.gz)

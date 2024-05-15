@@ -26,7 +26,7 @@ Links: [Download Commodore 64 binaries](https://csdb.dk/release/?id=199156),
 code](https://github.com/micheldebree/big_angry_sprite) or [listen to the
 music](https://deepsid.chordian.net/?file=/SID%20Happens/Terminator.sid)
 
-{{< youtube id="hK6_zeYYZ3Q" autoplay="true" >}}
+{{< youtube id="hK6_zeYYZ3Q" autoplay="false" >}}
 
 ## Assembler coding is fun
 

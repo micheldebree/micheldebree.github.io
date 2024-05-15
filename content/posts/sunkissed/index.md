@@ -9,7 +9,7 @@ We made an exclusive background tune for the 72nd issue of the Commodore 64 disk
 magazine [Vandalism News](https://csdb.dk/release/?id=216880). While you are reading
 the magazine, ours is one of the tunes you can select.
 
-{{< youtube id="gjxqJTm-4d4" autoplay="true" >}}
+{{< youtube id="gjxqJTm-4d4" autoplay="false" >}}
 
 The other tunes in the jukebox are by
 [Laxity](https://deepsid.chordian.net/?file=/MUSICIANS/L/Laxity), [Shogoon](https://deepsid.chordian.net/?file=/MUSICIANS/S/Shogoon/), [Mutetus](https://deepsid.chordian.net/?file=/MUSICIANS/M/Mutetus), [Stinsen](https://deepsid.chordian.net/?file=/MUSICIANS/S/Stinsen),

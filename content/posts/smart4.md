@@ -10,4 +10,4 @@ A short little jam. Can you spot the trick in track 1 that makes the track swing
 
 _P.S._ The track plays twice because it is so short.
 
-{{< youtube id="fnavje8ott4" autoplay="true" >}}
+{{< youtube id="fnavje8ott4" autoplay="false" >}}

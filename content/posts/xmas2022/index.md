@@ -8,7 +8,7 @@ I coded [a little christmas greeting on the Commodore
 64](https://csdb.dk/release/?id=227481). The code and music are
 by me, the font in scroller is by [Yavin](https://csdb.dk/scener/?id=1126)
 
-{{< youtube id="fZYGp7k-e44" autoplay="true" >}}
+{{< youtube id="fZYGp7k-e44" autoplay="false" >}}
 
 I didn't manage to finish it before Christmas 2022, so it's an early greeting
 for Christmas 2023 :wink:

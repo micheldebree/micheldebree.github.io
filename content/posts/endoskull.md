@@ -13,7 +13,7 @@ Compo](https://csdb.dk/event/?id=3135) on CSDB:
 I think this version is somewhat of an improvement. And guess what, this little
 production won 1st place!
 
-{{< youtube id="VXfBH394Aw8" autoplay="true" >}}
+{{< youtube id="VXfBH394Aw8" autoplay="false" >}}
 
 P.S. the movie above is taken from the [Anniversary
 Edition](https://csdb.dk/release/?id=212309), which was released

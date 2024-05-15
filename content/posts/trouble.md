@@ -16,4 +16,4 @@ deadline and we made it!
 We ended up getting a big applause and a low ranking in the results. But we
 had fun making it, which is all that counts!
 
-{{< youtube id="EIkcilEQbIY" autoplay="true" >}}
+{{< youtube id="EIkcilEQbIY" autoplay="false" >}}

@@ -13,7 +13,7 @@ get to meet friends we made online, talk to others who's work we admire, and
 have a big shootout in one of the competitions. There are competitions for music
 and graphics, but the big banger on saturday night is the demo competition.
 
-{{< youtube id="5j-Yj2VKB5c" autoplay="true" >}}
+{{< youtube id="5j-Yj2VKB5c" autoplay="false" >}}
 
 > My little entry for the demo competition
 

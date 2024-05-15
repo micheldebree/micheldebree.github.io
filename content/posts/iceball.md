@@ -17,7 +17,7 @@ learn about how such a music routine works internally. To do this, I reversed
 engineered the binary data of one of Laxity's tunes. The source code of the tune
 is below the video.
 
-{{< youtube id="tH3n-MSOFko" autoplay="true" >}}
+{{< youtube id="tH3n-MSOFko" autoplay="false" >}}
 
 ## Source code
 

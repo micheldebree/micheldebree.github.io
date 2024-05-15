@@ -39,4 +39,4 @@ or check out the little screen I coded to go with it on the Commodore 64:
 
 <!-- {{< c64 >}} -->
 
-{{< youtube id="EObPFlFmpW4" autoplay="true" >}}
+{{< youtube id="EObPFlFmpW4" autoplay="false" >}}

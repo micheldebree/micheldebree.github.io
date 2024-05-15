@@ -24,7 +24,7 @@ was all in assembler; "composing" the music involved creating different table of
 numbers to be sent in sequence to the chip, using the music routines I knew from
 my Commodore 64 heroes as inspiration.
 
-{{< youtube id="QhkoBqRHDYQ" autoplay="true" >}}
+{{< youtube id="QhkoBqRHDYQ" autoplay="false" >}}
 
 ## Main code for the DYCP
 

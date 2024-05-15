@@ -9,7 +9,7 @@ Pssst... I made the soundtrack to [this Commodore 64
 demo](https://csdb.dk/release/?id=203377), but I did it incognito. Don't tell
 anyone!
 
-{{< youtube id="MGjplCs75TQ" autoplay="true" >}}
+{{< youtube id="MGjplCs75TQ" autoplay="false" >}}
 
 A friend of mine told me about a little side project he wanted to start on the
 demoscene, called [Mahna Mahna](https://csdb.dk/group/?id=11339), doing

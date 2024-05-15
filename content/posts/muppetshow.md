@@ -13,4 +13,4 @@ called [Subway Art](https://csdb.dk/release/?id=205027)
 Again, the music was done by [Animal](https://csdb.dk/scener/?id=35839). Nobody
 knows it's my alter ego, except you, so hush hush...
 
-{{< youtube id="iM6DDDg1Z-A" autoplay="true" >}}
+{{< youtube id="iM6DDDg1Z-A" autoplay="false" >}}
