@@ -7,6 +7,7 @@
     * [Commento](#commento)
     * [Utterances](#utterances)
     * [Giscus](#giscus)
+    * [Cusdis](#cusdis)
 * [Syntax Highlight](#syntax-highlight)
 * [Theme Parameters](#theme-parameters)
   * [Social Icons Configuration](#social-icons-configuration)
@@ -27,6 +28,7 @@ This theme supports:
   * [Commento](https://commento.io/)
   * [Utterances](https://utteranc.es/)
   * [Giscus](https://giscus.app/)
+  * [Cusdis](https://cusdis.com/)
   * [Telegram](https://comments.app/)
 
 ### Commenting Systems
@@ -87,6 +89,13 @@ Follow [these steps](https://gohugo.io/content-management/comments/#configure-di
   dark = ""
 ```
 
+#### Cusdis
+
+```toml
+[params.cusdis] # https://cusdis.com
+  data_app_id = ""
+```
+
 ## Syntax Highlight
 
 The theme uses the Goldmark syntax highlight system. GitHub light and dark are set as the default styles. To choose a different style, make sure `noClasses` is not set to false (default is true) and add to your `config.toml`:
@@ -125,7 +134,7 @@ These are all the parameters used by `hugo-coder` theme.
 | math                          | bool   | No       | Enable MathJax Module and add JS into your site. | `false`                          | `true` or `false`                                |
 | katex                         | bool   | No       | Enable katex for all content types.              | `false`                          | `true` or `false`                                |
 | colorScheme                   | string | No       | Specify light/dark colorscheme                   | `"auto"`                         | `"auto"` or `"light"` or `"dark"`                |
-| hideColorSchemeToggle         | bool   | No       | If true, hides the color sheme toggle            | `false`                          | `true` or `false`                                |
+| hideColorSchemeToggle         | bool   | No       | If true, hides the color scheme toggle            | `false`                          | `true` or `false`                                |
 | customCSS                     | list   | No       | Add extra CSS files to the website.              | []                               | `["css/extra-style.css"]`                        |
 | customSCSS                    | list   | No       | Add extra SCSS files to the website.             | []                               | `["scss/extra-style.scss"]`                      |
 | customJS                      | list   | No       | Add extra JS files to the website.               | []                               | `["js/extra-script.js"]`                         |
@@ -249,6 +258,8 @@ defaultcontentlanguage = "en"
 
 paginate = 20
 
+[services]
+[services.disqus]
 disqusShortname = "yourdiscussshortname"
 
 [markup.highlight]
