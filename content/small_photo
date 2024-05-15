@@ -1,0 +1,4 @@
+#!/bin/sh
+convert "$1" -auto-orient -resize 480x480 "$1.png"
+cwebp -m 6 -q 65 "$1.png" -o "$1.webp"
+rm "$1.png"
