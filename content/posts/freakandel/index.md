@@ -17,7 +17,8 @@ have a big shootout in one of the competitions. There are competitions for music
 and graphics, but the big banger on saturday night is the demo competition.
 
 Last year I entered the demo competition with [Staying Alive](/posts/staying_alive), this time I had an original tune for
-the [music competition](https://csdb.dk/event/?id=3294). By the time I got to the party my tune still had some large gaps that needed to be filled, but after a day of work on friday I managed to get something decent before the 19:00 deadline:
+the [music competition](https://csdb.dk/event/?id=3294). By the time I got to the party my tune still had some large gaps that needed to be filled,
+but after a day of work on friday I managed to get something decent before the 19:00 deadline:
 
 <!-- {{< youtube id="wZMEcXHd-T4" start="1832" end="2057">}} -->
 {{< youtube id="1B27itDFy3U">}}
@@ -30,3 +31,8 @@ Some more links:
 - [Live footage](https://www.youtube.com/watch?v=iuWPbQuLBs0) of the tune playing at the party
 - [Live stream capture](https://www.youtube.com/watch?v=wZMEcXHd-T4&t=1832s) on Twitch, with some nice comments
 - Commodore 64 binaries and nice comments at [CSDb](https://csdb.dk/release/?id=242815)
+
+![Point of view of my laptop screen and Tubesockor](working.webp)
+
+> Polishing about 2 hours before the deadline. Tubesockor doing the same across the table.
+
