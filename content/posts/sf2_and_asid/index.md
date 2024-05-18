@@ -25,11 +25,13 @@ the [TherapSID](https://www.twistedelectrons.com/therapsid), a hardware synth wi
 
 > Our presentation at X2024 about Sidfactory 2 with hardware support
 
-![Thomas on stage](on_stage.webp)
+![Thomas and I on stage](on_stage.webp)
 
 ![The captivated audience](audience.webp)
 
 It was excellent meeting Thomas in real life for the first time, after we met and worked on the ASID integration online.
+
+![Thomas and I working on something behind his laptop](table.webp)
 
 ![Me with Thomas Jansson](thomasj.webp)
 
