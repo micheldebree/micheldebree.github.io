@@ -5,13 +5,10 @@ draft: false
 tags: ["c64", "sid", "coding", "cover"]
 ---
 
-This weekend I spent at [X2023](https://csdb.dk/event/?id=3187) in Someren,
-Holland. X is a bi-annual Commodore 64
-[demoscene](https://en.wikipedia.org/wiki/Demoscene) event where creative
-enthusiasts gather from all over Europe (and some from further away even!). We
-get to meet friends we made online, talk to others who's work we admire, and
-have a big shootout in one of the competitions. There are competitions for music
-and graphics, but the big banger on saturday night is the demo competition.
+This weekend I spent at [X2023](https://csdb.dk/event/?id=3187) in Someren, Holland. X is a bi-annual Commodore 64
+[demoscene](https://en.wikipedia.org/wiki/Demoscene) event where creative enthusiasts gather from all over Europe (and some from
+further away even!). We get to meet friends we made online, talk to others who's work we admire, and have a big shootout in one of
+the competitions. There are competitions for music and graphics, but the big banger on saturday night is the demo competition.
 
 {{< youtube id="5j-Yj2VKB5c" autoplay="false" >}}
 
@@ -207,7 +204,7 @@ raster time, and we can easily do 50 frames/second of animation. In practice, th
 animations are slowed down because we would have to store too many frames per
 animation at this rate, and I thought they look smooth enough.
 
-## X2023 was a blast!
+## X2023 was a blast
 
 I have been to a couple of X parties, but this was the first time I had
 something to show on the big screen, so that was a lot of fun!
