@@ -7,7 +7,7 @@ tags:
   - sid
   - cover
 ---
-This Saturday the Commodore 64 demo [Halloweed](https://csdb.dk/release/?id=247767) made its debut at the
+This Saturday the Commodore 64 demo [Halloweed 4](https://csdb.dk/release/?id=247767) made its debut at the
 [Transmission 64](https://transmission64.com/) online demoparty. I was guest
 starring on this production by [Xenon](https://csdb.dk/group/?id=153), a dutch demoscene group. [WVL](https://csdb.dk/scener/?id=1119) did
 all the groundbreaking code (and sharpened a few world records).
