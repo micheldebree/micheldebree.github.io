@@ -19,3 +19,5 @@ some well known horror themes, and landed on the iconic arpeggio of [Mike
 Oldfield's Tubular Bells](https://www.youtube.com/watch?v=FN6jIvKiYOs) (used in
 [The Exorcist](https://www.themoviedb.org/movie/9552-the-exorcist)) and a cover
 of [Michael Jackson's Thriller](https://www.youtube.com/watch?v=BsuEjAw5hg0) (R.I.P. Quincy Jones)
+
+![Official proof we came 2nd](certificate.webp)
