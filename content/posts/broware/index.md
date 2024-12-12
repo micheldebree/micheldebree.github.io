@@ -22,5 +22,12 @@ reading.
 
 ![](vandalism73-menu.gif)
 
+## Update: meeting SMC
+
+The summer after we worked on Broware, I got to meet SMC in real life for the first time at the [X2023](/posts/staying_alive) demoscene event.
+
+![Youth and SMC @ X2023](/posts/staying_alive/smc.webp)
+
+
 
 

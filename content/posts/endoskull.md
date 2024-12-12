@@ -18,3 +18,9 @@ production won 1st place!
 P.S. the movie above is taken from the [Anniversary
 Edition](https://csdb.dk/release/?id=212309), which was released
 after the competition, and adds a nice opening title screen.
+
+## Update: meeting Honcho
+
+About 1,5 years later, I got to meet Honcho in real life for the first time at the [X2023](/posts/staying_alive) demoscene event.
+
+![Youth and Honcho @ X2023](/posts/staying_alive/honcho.webp)

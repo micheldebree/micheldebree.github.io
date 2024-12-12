@@ -40,3 +40,9 @@ or check out the little screen I coded to go with it on the Commodore 64:
 <!-- {{< c64 >}} -->
 
 {{< youtube id="EObPFlFmpW4" autoplay="false" >}}
+
+## Update: meeting Stinsen
+
+More than 2 years later, I actually got to meet Stinsen in real life for the first time at the [X2023](/posts/staying_alive) demoscene event.
+
+![Youth and Stinsen @ X2023](/posts/staying_alive/stinsen.webp)
