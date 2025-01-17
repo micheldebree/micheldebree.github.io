@@ -36,3 +36,8 @@ It was excellent meeting Thomas in real life for the first time, after we met an
 ![Me with Thomas Jansson](thomasj.webp)
 
 P.S. Thomas made his SID music debut a day earlier in the music competition with his tune [Debut & Credit](https://www.youtube.com/watch?v=epV3E-SMEnw). My entry in the same competition was [Freakandel](/posts/freakandel)
+
+
+![Me with Jeroen Tel and Thomas](three_amigos.webp)
+
+> On our way to get some sleep after a long day of work and play, we ran into the SID legend [Jeroen Tel](https://soundcloud.com/maniacs-of-noise) and had an interesting conversation about A.I. generated music and stuff.
