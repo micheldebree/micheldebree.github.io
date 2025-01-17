@@ -1,16 +1,20 @@
-SRC_CV=./src/cv
-DEST_CV=./static/resume
+DEST_CV=./content/resume
 CV_NAME=Michel_de_Bree-Resume
 
-CV_RESOURCES=\
-	./content/resume.md \
+# QR is both artifact as source (for PDF and DocX creation)
+CV_QR= $(DEST_CV)/QR.png
+
+CV_SRC=\
+	$(DEST_CV)/index.md \
 	$(DEST_CV)/Photo.jpg \
-	$(DEST_CV)/QR.png \
 	$(DEST_CV)/michel_de_bree.vcf \
+	$(CV_QR)
+
 
 CV_ARTIFACTS=\
-	$(DEST_CV)/Michel_de_Bree-Resume.EN.docx \
-	$(DEST_CV)/Michel_de_Bree-Resume.EN.pdf \
+	$(DEST_CV)/$(CV_NAME).EN.docx \
+	$(DEST_CV)/$(CV_NAME).EN.pdf \
+	$(CV_QR)
 
 .PHONY: test
 test: all
@@ -28,31 +32,19 @@ icons: static/images/favicon-16x16.png \
 	static/images/favicon-32x32.png \
 	static/images/apple-touch-icon.png
 
-## Resume
+## Resume artifacts
 
-content/resume.md: $(SRC_CV)/README.md
-	cp $< $@
+$(DEST_CV)/$(CV_NAME).EN.pdf: $(CV_SRC)
+	cd $(DEST_CV) && pandoc --embed-resources --standalone --pdf-engine=wkhtmltopdf --metadata title="Resumé" -o $(CV_NAME).EN.pdf index.md
+	qpdf --optimize-images --recompress-flate --compression-level=9 --object-streams=generate --replace-input $@
 
-
-$(DEST_CV)/$(CV_NAME).EN.pdf: $(CV_RESOURCES)
-	pandoc --resource-path=$(DEST_CV) --pdf-engine=wkhtmltopdf --metadata title="Resumé" -o $@ $<
-
-$(DEST_CV)/$(CV_NAME).EN.docx: $(CV_RESOURCES)
-	pandoc --resource-path=$(DEST_CV) -o $@ $< 
+$(DEST_CV)/$(CV_NAME).EN.docx: $(CV_SRC)
+	pandoc --resource-path=$(DEST_CV) --embed-resources --standalone -o $@ $< 
 
 $(DEST_CV)/QR.png:
 	qrencode -l L -s 3 -o "$@" https://www.micheldebree.nl/resume/michel_de_bree.vcf
 	optipng $@
 
-$(DEST_CV)/%: $(SRC_CV)/%
-	mkdir -p static/resume
-	cp $< $@
-
-
-.PHONY: cleancv
-cleancv:
-	rm -rf $(CV_RESOURCES)
-	rm -rf $(CV_ARTIFACTS)
 
 .PHONY: csdbCal
 csdbCal:
@@ -76,7 +68,8 @@ upgrade-theme:
 	git subtree pull --prefix themes/hugo-coder hugo-coder main --squash
 
 .PHONY: clean
-clean: cleancv
+clean:
 	rm -rf docs
 	rm -rf resources
 	rm -rf public
+	rm -rf $(CV_ARTIFACTS)
