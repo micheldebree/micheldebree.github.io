@@ -20,4 +20,6 @@ Oldfield's Tubular Bells](https://www.youtube.com/watch?v=FN6jIvKiYOs) (used in
 [The Exorcist](https://www.themoviedb.org/movie/9552-the-exorcist)) and a cover
 of [Michael Jackson's Thriller](https://www.youtube.com/watch?v=BsuEjAw5hg0) (R.I.P. Quincy Jones)
 
+[Live stream on Twitch](https://www.youtube.com/watch?v=ezA1b-svzy4&t=1407s)
+
 ![Official proof we came 2nd](certificate.webp)
