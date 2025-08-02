@@ -30,25 +30,23 @@
   )
 
   #if "Situation" in experience [
-    #experience.Situation.at(language)
+    #par(justify: true)[#text(lang: "nl")[#experience.Situation.at(language)]]
   ]
 
   #if "Task" in experience [
     #if (language == "en") [Responsibilities] else [Verantwoordelijkheden]
     #for task in experience.Task.at(language) [
+
       - #strong(task.Task) #if "Action" in task [ #task.Action] #if (
           "Result" in task
         ) [#task.Result]
-
-      #if "Keywords" in task [
-        #for keyword in task.Keywords [
-
-          // #link(data.Keywords.at(keyword))   
-
-        ]
-      ]
-
     ]
   ]
+
+  #if "Keywords" in experience [
+    #for keyword in experience.Keywords [
+      #let k = data.Keywords.at(keyword)
+      #emph(text(size: 1em)[#k.Name])
+    ]]
 ]
 

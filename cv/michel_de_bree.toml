@@ -36,15 +36,147 @@ Url = "https://www.micheldebree.nl"
 Name = "LinkedIn"
 Url = "https://nl.linkedin.com/in/micheldebree"
 
-[[Keywords]]
+# Keywords are referenced in skills, and can be mentioned in experiences
 
-[[Keywords.Java]]
+[Keywords.Java]
 Name = "Java"
-Url = "https://www.java.com"
+Score = 9
 
-[[Keywords.SpringBoot]]
+[Keywords.Javascript]
+Name = "Javascript"
+Score = 8
+
+[Keywords.Typescript]
+Name = "Typescript"
+Score = 7
+
+[Keywords.Java21]
+Name = "Java 21"
+Score = 9
+
+[Keywords.Bash]
+Name = "Bash"
+Score = 7
+
+[Keywords.SpringBoot]
 Name = "Spring Boot"
-Url = "https://www.java.com"
+Score = 9
+
+[Keywords.Hibernate]
+Name = "Hibernate"
+Score = 9
+
+[Keywords.PostgreSQL]
+Name = "PostgreSQL"
+Score = 8
+
+[Keywords.Elasticsearch]
+Name = "Elasticsearch"
+Score = 7
+
+[Keywords.Liquibase]
+Name = "Liquibase"
+Score = 8
+
+[Keywords.React]
+Name = "React"
+Score = 7
+
+[Keywords.REST]
+Name = "REST"
+Score = 9
+
+[Keywords.HALJSON]
+Name = "HAL+JSON"
+Score = 8
+
+[Keywords.OpenAPI]
+Name = "OpenAPI (Swagger)"
+Score = 8
+
+[Keywords.JWT]
+Name = "JWT"
+Score = 7
+
+[Keywords.OAuth]
+Name = "OAuth"
+Score = 8
+
+[Keywords.SOAP]
+Name = "SOAP"
+Score = 7
+
+[Keywords.Kubernetes]
+Name = "Kubernetes"
+Score = 8
+
+[Keywords.OpenShift]
+Name = "OpenShift"
+Score = 6
+
+[Keywords.Docker]
+Name = "Docker"
+Score = 8
+
+[Keywords.Helm]
+Name = "Helm"
+Score = 8
+
+[Keywords.Linux]
+Name = "Linux"
+Score = 8
+
+[Keywords.GitlabCI]
+Name = "Gitlab CI"
+Score = 7
+
+[Keywords.Kibana]
+Name = "Kibana"
+Score = 6
+
+[Keywords.Scrum]
+Name = "Scrum"
+Score = 9
+
+[Keywords.AgileSAFe]
+Name = "AgileSAFe"
+Score = 5
+
+[Keywords.JUnit]
+Name = "JUnit"
+Score = 9
+
+[Keywords.Mockito]
+Name = "Mockito"
+Score = 9
+
+[Keywords.Cucumber]
+Name = "Cucumber"
+Score = 8
+
+[Keywords.Wiremock]
+Name = "Wiremock"
+Score = 8
+
+[Keywords.JMeter]
+Name = "JMeter"
+Score = 6
+
+[Keywords.Jest]
+Name = "Jest"
+Score = 7
+
+[Keywords.ReactTestingLibrary]
+Name = "React Testing Library"
+Score = 7
+
+[Keywords.dotNET]
+Name = ".NET"
+Score = 0
+
+[Keywords.VisualBasic]
+Name = "Visual Basic"
+Score = 0
 
 [[Experience]]
 
@@ -52,7 +184,7 @@ Title.nl = "Regelsysteem en services voor regelgeving m.b.t. de Omgevingswet"
 Company = "Digitaal Stelsel Omgevingswet (Rijkswaterstaat)"
 Location = "Rotterdam"
 Start = "2018"
-End = "2025"
+End = "heden"
 
 Situation.nl = """
 Eén van de centrale onderdelen van het Digitaal Stelsel Omgevingswet, is de Toepasbare Regels component. \
@@ -65,19 +197,34 @@ Vanwege het publieke karakter en de grote gebruikersgroep worden er hoge eisen \
 gesteld aan betrouwbaarheid, beschikbaarheid, veiligheid en schaalbaarheid.
 """
 
+Keywords = [
+  "Java",
+  "SpringBoot",
+  "Hibernate",
+  "PostgreSQL",
+  "React",
+  "Elasticsearch",
+  "REST",
+  "HALJSON",
+  "OpenAPI",
+  "OAuth",
+  "JWT",
+  "OpenShift",
+]
 
 [[Experience.Task.nl]]
 Task = "Nieuwbouw van kernfunctionaliteit."
 Action = """
-Het ontwerp en de bouw van het synchronisatiemechanisme dat stamdata up-to-date houd met de externe bron.\
+Voorbeeld: \
+Het ontwerp en de bouw van het synchronisatiemechanisme dat stamdata up-to-date \
+houdt met de externe bron.\
 """
 Result = """
-De ontwerpkeuzes die ik hierbij gemaakt hebben gezorgd dat dit mechanisme sinds \
+De ontwerpkeuzes die ik hierbij gemaakt heb, hebben gezorgd dat dit mechanisme sinds \
 inwerkingtreding betrouwbaar en zonder noemenswaardige problemen werkt. Ook \
 heeft de eenvoudige maar robuuste opzet in de praktijk al meerdere malen \
 eenvoudig dataherstel mogelijk gemaakt.
 """
-Keywords = ["Java", "Spring Boot"]
 
 [[Experience.Task.nl]]
 Task = "Ontwerpen, afstemmen en bouwen van REST (HAL+JSON) API's met gebruikers en architecten, d.m.v. OpenAPI (Swagger) specificaties"
@@ -96,21 +243,21 @@ Result = """Uitkomst was dat wij het wekenlange traject voor onze applicatie \
 niet zijn ingegaan, en de ongebruikte integratielogica hebben verwijderd.
 """
 
-[[Experience.Task.nl]]
-Task = "Bewaken van code kwaliteit"
-Action = """
-Ik en mijn team zijn scherp op code reviews en de definition of done die we
-afgesproken hebben. Hierin zijn zaken opgenomen als testcoverage, code style,
-regressietests en aantal SonarQube issues. De applicaties van alle teams worden
-extern geaudit op onderhoudbaarheid en veiligheid door de Software Improvement
-Group, waarvan ik tooling heb geintegreerd in onze Gitlab CI pipeline.
-Periodiek vertegenwoordig ik ons team om issues te bespreken met de SIG.\
-"""
-Result = """Als gevolg komen er bij de SIG overleggen geen noemenswaardige \
-isssues aan het licht. Ook hoeven we zelden een noodreparatie te doe op de \
-productie omgeving
-"""
-
+# [[Experience.Task.nl]]
+# Task = "Bewaken van code kwaliteit"
+# Action = """
+# Ik en mijn team zijn scherp op code reviews en de definition of done die we
+# afgesproken hebben. Hierin zijn zaken opgenomen als testcoverage, code style,
+# regressietests en aantal SonarQube issues. De applicaties van alle teams worden
+# extern geaudit op onderhoudbaarheid en veiligheid door de Software Improvement
+# Group, waarvan ik tooling heb geintegreerd in onze Gitlab CI pipeline.
+# Periodiek vertegenwoordig ik ons team om issues te bespreken met de SIG.\
+# """
+# Result = """Als gevolg komen er bij de SIG overleggen geen noemenswaardige \
+# isssues aan het licht. Ook hoeven we zelden een noodreparatie te doe op de \
+# productie omgeving
+# """
+#
 [[Experience]]
 
 Title.nl = "Knooppunt voor API toegang en autorisatie"
@@ -120,16 +267,15 @@ Start = "2016"
 End = "2018"
 
 Situation.nl = """
-Binnen het Digitaal Stelsel Omgevingswet worden alle API's aangeboden via het
-Knooppunt. Ook biedt het Knooppunt authenticatie m.b.v. DigID, eHerkenning,
-OAuth, API keys en PKIO certificaten. Communicatie tussen componenten binnen en
-buiten het stelsel loopt via het Knooppunt, waardoor zaken als routering,
-logging, foutafhandeling, throttling en beveiliging centraal geregeld zijn.
+Binnen het Digitaal Stelsel Omgevingswet worden alle API's aangeboden via het \
+Knooppunt. Ook biedt het Knooppunt authenticatie m.b.v. DigID, eHerkenning, \
+OAuth, API keys en PKIO certificaten. Communicatie tussen componenten binnen en \
+buiten het stelsel loopt via het Knooppunt, waardoor zaken als routering, \
+logging, foutafhandeling, throttling en beveiliging centraal geregeld zijn. \
 Ook biedt het Knooppunt een open stelsel voor derden waar API's afgenomen worden door iedereen.
 
-Omdat het DSO destijds min of meer "launching customer" was van het Standaard Platform, ben ik 
-in een overgangsperiode geleidelijk overgegaan van mijn rol bij het Standaard Platform naar full time aan de slag bij het DSO.
-
+Omdat het DSO destijds min of meer "launching customer" was van het Standaard Platform, ben ik \
+in een overgangsperiode geleidelijk overgegaan van mijn rol bij het Standaard Platform naar volledig aan de slag bij het DSO
 """
 
 [[Experience.Task.nl]]
@@ -141,9 +287,10 @@ uitgegroeid tot lead developer in een team van wisselende samenstelling.
 
 [[Experience.Task.nl]]
 Task = "Integratie development"
-Action = """Het ontwikkelen van nieuwe componenten en uitbreidingen op het standaard open source product WSO2, in Java en Spring Boot.
-Voorbeeld: een adapter om API keys te kunnen gebruiken voor afnemers in het
-open stelsel. De adapter gebruikt achter de schermen OAuth2 authtenticatie om
+Action = """
+Het ontwikkelen van nieuwe componenten en uitbreidingen op het standaard open source product WSO2, in Java en Spring Boot. \
+Voorbeeld: een adapter om API keys te kunnen gebruiken voor afnemers in het \
+open stelsel. De adapter gebruikt achter de schermen OAuth2 authtenticatie om \
 aan te kunnen sluiten op WSO2.
 """
 
@@ -154,8 +301,9 @@ Result = "De rol van vertegenwoordiger en aanspreekpunt heeft veel overlap met d
 
 [[Experience.Task.nl]]
 Task = "CI/CD, DevOps development"
-Action = "Het ontwikkelen van scripting voor het uitrollen van de applicatie. Tijdens het project maakte het Standaard Platform ook grote ontwikkelingen door, via een Docker Swarm oplossing naar uiteindelijk Kubernetes en Openshift. Hierdoor was het uitrollen van applicaties ook een belangrijk en dynamisch onderdeel van de ontwikkeling van applicaties binnen het DSO."
-
+Action = """
+Het ontwikkelen van scripting voor het uitrollen van de applicatie. Tijdens het project maakte het Standaard Platform ook grote ontwikkelingen door, via een Docker Swarm oplossing naar uiteindelijk Kubernetes en Openshift. Hierdoor was het uitrollen van applicaties ook een belangrijk en dynamisch onderdeel van de ontwikkeling van applicaties binnen het DSO.
+"""
 
 [[Experience]]
 Title.nl = "Standaard Platform voor overheid applicaties"
@@ -165,13 +313,13 @@ Start = "2015"
 End = "2018"
 
 Situation.nl = """
-Het Standaard Platform is op dit moment een standaard, schaalbaar
-containerplatform voor overheid applicaties. In mijn huidige project is dit het
-onderliggende platform waar de Omgevingswet applicaties op draaien. Toen ik
-begon was het Standaard Platform een complete standaard enterprise architectuur
-die volledige automatisch uitgerold kon worden, met daarin ook zelfbouw
-componenten en CI/CD functionaliteit. Maar zonder containerization. Tijdens mij
-werk bij, en met het Standaard Platform heeft het een ontwikkeling doorgemaakt
+Het Standaard Platform is op dit moment een standaard, schaalbaar \
+containerplatform voor overheid applicaties. In mijn huidige project is dit het \
+onderliggende platform waar de Omgevingswet applicaties op draaien. Toen ik \
+begon was het Standaard Platform een complete standaard enterprise architectuur \
+die volledige automatisch uitgerold kon worden, met daarin ook zelfbouw \
+componenten en CI/CD functionaliteit. Maar zonder containerization. Tijdens mijn \
+werk bij, en met het Standaard Platform heeft het een ontwikkeling doorgemaakt \
 tot het op Kubernetes gebaseerde platform dat het nu is.
 """
 
@@ -222,12 +370,19 @@ Location = "Vianen"
 Start = "2005"
 End = "2014"
 
+Situation.nl = "Verschillende in-house en on-site projecten in Java en .NET. Mijn eerst klus was het onderhouden en uitbreiden van software bij Aegon Bank in een team. Op mijn laatste project heb ik het meest mijn stempel gedrukt. Dit was de nieuwbouw van het publieke portaal van het Landelijk Electronisch Patientendossier. Doordat deze wet het niet gehaald heeft, is de software in sterk afgeslankte vorm in productie genomen."
+
+Keywords = ["Java", "dotNET"]
+
 [[Experience]]
 Title.nl = "Software Engineer"
 Company = "PaC/Imtech ICT"
 Location = "Den Haag"
 Start = "2001"
 End = "2005"
+
+Situation.nl = "Begonnen met Visual Basic, daarna verschillende in-house Java projecten"
+Keywords = ["Java", "VisualBasic"]
 
 [[Experience]]
 Title.nl = "Ontwikkelaar"
@@ -276,236 +431,46 @@ Institution.nl = "Het Vlietland College Leiden"
 
 [[Skills]]
 Category = "Programmeertalen"
-
-[[Skills.Subject]]
-Name = "Java 21"
-Score = 9
-
-[[Skills.Subject]]
-Name = "Javascript"
-Score = 8
-
-[[Skills.Subject]]
-Name = "Typescript"
-Score = 7
-
-[[Skills.Subject]]
-Name = "Bash"
-Score = 7
-
-# ===
+Keywords = ["Java21", "Javascript", "Typescript", "Bash"]
 
 [[Skills]]
 Category = "Frameworks"
-
-# ===
-
-[[Skills.Subject]]
-Name = "Spring Boot"
-Score = 9
-
-[[Skills.Subject]]
-Name = "Hibernate"
-Score = 9
-
-[[Skills.Subject]]
-Name = "PostgreSQL"
-Score = 8
-
-[[Skills.Subject]]
-Name = "Elasticsearch"
-Score = 7
-
-[[Skills.Subject]]
-Name = "Liquibase"
-Score = 8
-
-[[Skills.Subject]]
-Name = "React"
-Score = 7
+Keywords = [
+  "SpringBoot",
+  "Hibernate",
+  "PostgreSQL",
+  "Elasticsearch",
+  "Liquibase",
+  "React",
+]
 
 [[Skills]]
 Category = "Integratie"
+Keywords = ["REST", "HALJSON", "OpenAPI", "OAuth", "JWT", "SOAP"]
 
-[[Skills.Subject]]
-Name = "REST"
-Score = 9
-
-[[Skills.Subject]]
-Name = "OpenAPI"
-Score = 8
-
-[[Skills.Subject]]
-Name = "HAL+JSON"
-Score = 8
-
-[[Skills.Subject]]
-Name = "SOAP"
-Score = 6
-
-[[Skills.Subject]]
-Name = "OAuth"
-Score = 7
-
-[[Skills.Subject]]
-Name = "JWT"
-Score = 6
 
 [[Skills]]
 Category = "DevOps"
-
-[[Skills.Subject]]
-Name = "Gitlab CI"
-Score = 7
-
-[[Skills.Subject]]
-Name = "Kubernetes"
-Score = 8
-
-[[Skills.Subject]]
-Name = "OpenShift"
-Score = 6
-
-[[Skills.Subject]]
-Name = "Docker"
-Score = 8
-
-[[Skills.Subject]]
-Name = "Linux"
-Score = 8
-
-[[Skills.Subject]]
-Name = "Helm"
-Score = 8
-
-[[Skills.Subject]]
-Name = "Kibana"
-Score = 3
-
-[[Skills.Subject]]
-Name = "Grafana"
-Score = 3
-
-[[Skills.Subject]]
-Name = "Scrum"
-Score = 9
-
-[[Skills.Subject]]
-Name = "Agile SAFe"
-Score = 6
+Keywords = [
+  "Kubernetes",
+  "OpenShift",
+  "Helm",
+  "Docker",
+  "GitlabCI",
+  "Linux",
+  "Kibana",
+  "Scrum",
+  "AgileSAFe",
+]
 
 [[Skills]]
 Category = "Testen"
-
-[[Skills.Subject]]
-Name = "Junit"
-Score = 9
-
-[[Skills.Subject]]
-Name = "Mockito"
-Score = 8
-
-[[Skills.Subject]]
-Name = "Cucumber"
-Score = 8
-
-[[Skills.Subject]]
-Name = "Selenium"
-Score = 4
-
-[[Skills.Subject]]
-Name = "Wiremock"
-Score = 8
-
-[[Skills.Subject]]
-Name = "JMeter"
-Score = 6
-
-[[Skills.Subject]]
-Name = "Jest"
-Score = 7
-
-#
-# [[Skills]]
-# Name = "DMN"
-# Url = "https://www.omg.org/dmn/"
-#
-# [[Skills]]
-# Name = "Drools"
-# Url = "https://drools.org/"
-#
-# [[Skills]]
-# Name = "Kubernetes"
-# Url = "https://kubernetes.io"
-#
-# [[Skills]]
-# Name = "Openshift"
-# Url = "https://www.openshift.com"
-#
-# [[Skills]]
-# Name = "Helm"
-# Url = "https://helm.sh"
-#
-# [[Skills]]
-# Name = "Docker"
-# Url = "https://www.docker.com"
-#
-# [[Skills]]
-# Name = "Linux"
-# Url = "https://www.linux.org"
-#
-# [[Skills]]
-# Name = "JUnit"
-# Url = "https://junit.org/junit5"
-#
-# [[Skills]]
-# Name = "Mockito"
-# Url = "https://site.mockito.org"
-#
-# [[Skills]]
-# Name = "Jest"
-# Url = "https://jestjs.io"
-#
-# [[Skills]]
-# Name = "Chai"
-# Url = "https://www.chaijs.com"
-#
-# [[Skills]]
-# Name = "Wiremock"
-# Url = "http://wiremock.org"
-#
-# [[Skills]]
-# Name = "Cucumber"
-# Url = "https://cucumber.io"
-#
-# [[Skills]]
-# Name = "Selenium"
-# Url = "https://www.selenium.dev"
-#
-# [[Skills]]
-# Name = "JMeter"
-# Url = "https://jmeter.apache.org"
-#
-# [[Skills]]
-# Name = "Git"
-# Url = "https://git-scm.com"
-#
-# [[Skills]]
-# Name = "Gitlab"
-# Url = "https://about.gitlab.com"
-#
-# [[Skills]]
-# Name = "Maven"
-# Url = "https://maven.apache.org"
-#
-# [[Skills]]
-# Name = "JIRA"
-# Url = "https://www.atlassian.com/software/jira"
-#
-# [[Skills]]
-# Name = "Confluence"
-# Url = "https://www.atlassian.com/software/confluence"
-#
-# [[Skills]]
-# Name = "SonarQube"
-# Url = "https://www.sonarqube.org"
+Keywords = [
+  "JUnit",
+  "Mockito",
+  "Cucumber",
+  "Wiremock",
+  "JMeter",
+  "Jest",
+  "ReactTestingLibrary",
+]

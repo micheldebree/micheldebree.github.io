@@ -16,5 +16,5 @@
 #if language == "en" [
   #{ data.Summary.Introduction }
 ] else [
-  #{ data.Summary.Introduction }
+  #{ par(justify: true)[#text(lang: "nl")[#data.Summary.Introduction]] }
 ]

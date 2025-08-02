@@ -41,7 +41,10 @@
     accent-color,
     multicol,
     alignment,
-    skills: skills.Subject.sorted(key: it => it.Score).rev().map(s => s.Name + renderStars(s.Score)),
+    skills: skills
+      .Keywords
+      .map(k => data.Keywords.at(k))
+      .map(k => k.Name + renderStars(k.Score)),
   )
 
 ]
