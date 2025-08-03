@@ -38,7 +38,7 @@
     ]
 
     #if "Task" in experience [
-      #if (language == "en") [Responsibilities] else [Verantwoordelijkheden]
+  #emph(if (language == "en") [Responsibilities] else [Verantwoordelijkheden:])
       #for task in experience.Task.at(language) [
 
         - #par(justify: true)[

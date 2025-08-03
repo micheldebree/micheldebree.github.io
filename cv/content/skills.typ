@@ -37,7 +37,7 @@
 
 #for skills in data.Skills [
 
-  === #text(font: font_monospace, weight: "black")[#emph(skills.Category)]
+  === #emph(skills.Category)
 
   #skill-entry(
     fill-color,
@@ -46,10 +46,7 @@
     skills: skills
       .Keywords
       .map(k => data.Keywords.at(k))
-      .map(k => (
-        text(font: font_monospace)[#k.Name] + renderStars(k.Score)
-      )),
+      .map(k => (k.Name + renderStars(k.Score))),
   )
-
 ]
 
