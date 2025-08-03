@@ -18,9 +18,9 @@ experts en leveranciers om een doeltreffende, betrouwbare en efficiënte \
 oplossing boven tafel te krijgen. Ik heb hiervoor een scherpe, kritische blik \
 ontwikkeld, die ik goed kan balanceren met een pragmatische houding. Hierdoor \
 kan ik risico's vroegtijdig identificeren en de impact van veranderingen op de \
-langere termijn inschatten. \
+langere termijn inschatten.
 
-Naast mijn werk breng ik tijd door met mijn vrouw en tiener, vind ik het \
+Naast mijn werk breng ik tijd door met mijn vrouw en tienerzoon, vind ik het \
 leuk om buiten te zijn, te koken en cultuur te snuiven in het buitenland. Ook \
 houd ik me af en toe bezig met meer creatieve toepassingen van computers in de \
 zogenaamde Demoscene.
@@ -63,17 +63,36 @@ gesteld aan betrouwbaarheid, beschikbaarheid, veiligheid en schaalbaarheid. \
 
 Keywords = [
   "Java",
+  "Maven",
   "SpringBoot",
   "Hibernate",
   "PostgreSQL",
+  "Liquibase",
   "React",
   "Elasticsearch",
   "REST",
   "HALJSON",
   "OpenAPI",
+  "SOAP",
   "OAuth",
   "JWT",
+  "Docker",
+  "Kubernetes",
+  "Helm",
   "OpenShift",
+  "NGINX",
+  "Drools",
+  "DMN",
+  "Scrum",
+  "JIRA",
+  "Confluence",
+  "JUnit",
+  "Mockito",
+  "Cucumber",
+  "Wiremock",
+  "JMeter",
+  "Jest",
+  "ReactTestingLibrary",
 ]
 
 [[Experience.Task.nl]]
@@ -87,7 +106,7 @@ Result = """
 De ontwerp keuzes die ik hierbij gemaakt heb, hebben gezorgd dat dit mechanisme \
 sinds inwerkingtreding betrouwbaar en zonder noemenswaardige problemen werkt. \
 Ook heeft de eenvoudige maar robuuste opzet in de praktijk al meerdere malen \
-eenvoudig data herstel mogelijk gemaakt. \
+eenvoudig data herstel en migratie mogelijk gemaakt. \
 """
 
 [[Experience.Task.nl]]
@@ -132,6 +151,7 @@ Location = "Den Haag, Rotterdam"
 Start = "2016"
 End = "2018"
 
+
 Situation.nl = """
 Binnen het Digitaal Stelsel Omgevingswet worden alle API's aangeboden via het \
 Knooppunt. Ook biedt het Knooppunt authenticatie m.b.v. DigID, eHerkenning, \
@@ -146,11 +166,13 @@ Platform, ben ik in een overgangsperiode geleidelijk overgegaan van mijn rol \
 bij het Standaard Platform naar volledig aan de slag bij het DSO \
 """
 
+Keywords = ["Java", "Spring", "WSO2", "Docker", "Ansible", "OAuth"]
+
 [[Experience.Task.nl]]
 Task = "Lead development"
 Action = """Bij de start van het project ben ik begonnen als één van de drie \
 ontwikkelaars. In de loop van de tijd is mijn rol op een organische manier \
-uitgegroeid tot lead developer in een team van wisselende samenstelling. 
+uitgegroeid tot lead developer in een team van wisselende samenstelling.
 """
 
 [[Experience.Task.nl]]
@@ -193,11 +215,11 @@ Title.nl = "Standaard Platform voor overheid applicaties"
 Company = "Ministerie van Infrastructuur en Waterstaat"
 Location = "Den Haag"
 Start = "2015"
-End = "2018"
+End = "2017"
 
 Situation.nl = """
 Het Standaard Platform is op dit moment een standaard, schaalbaar \
-containerplatform voor overheid applicaties. In mijn huidige project is dit het \
+container platform voor overheid applicaties. In mijn huidige project is dit het \
 onderliggende platform waar de Omgevingswet applicaties op draaien. Toen ik \
 begon was het Standaard Platform een complete standaard enterprise architectuur \
 die volledige automatisch uitgerold kon worden, met daarin ook zelfbouw \
@@ -205,6 +227,38 @@ componenten en CI/CD functionaliteit. Maar zonder containerization. Tijdens mijn
 werk bij, en met het Standaard Platform heeft het een ontwikkeling doorgemaakt \
 tot het op Kubernetes gebaseerde platform dat het nu is.
 """
+
+Keywords = [
+  "Java",
+  "Hibernate",
+  "Maven",
+  "Nexus",
+  "JBoss",
+  "WSO2",
+  "SOAP",
+  "REST",
+  "Angular",
+  "JSF",
+  "SAML2",
+  "OpenLDAP",
+  "Selenium",
+  "JUnit",
+  "JMeter",
+  "Jenkins",
+  "Python",
+  "Ruby",
+  "PostgreSQL",
+  "MySQL",
+  "Elasticsearch",
+  "MongoDB",
+  "Graylog",
+  "HAProxy",
+  "Squid",
+  "Apache",
+  "Linux",
+  "Vagrant",
+  "OpenStack"
+]
 
 [[Experience.Task.nl]]
 Task = "Ontwikkeling van custom componenten en uitbreidingen."
@@ -219,7 +273,7 @@ Action = """
 Bouw, in team verband, m.b.v. Ruby, Linux shell en Amazon EC2.
 """
 Result = """
-Met de tool kon in minder dan een uur tijd een compleet applicatieplatform \
+Met de tool kon in minder dan een uur tijd een compleet applicatie platform \
 worden uitgerold op Amazon EC2 dat klaar was voor het hosten en de lifecycle \
 management van een complete enterprise applicatie. \
 """
@@ -235,17 +289,35 @@ End = "2015"
 
 Situation.nl = """
 In mijn eerste opdracht als freelancer was ik onderdeel van een Scrum/DevOps \
-team. Eén van de functionaleiten die we in dit team naar productie gebracht \
+team. Eén van de functionaliteiten die we in dit team naar productie gebracht \
 hebben, is de "gebruikersnaam vergeten" functionaliteit voor online bankieren. \
 """
 
+Keywords = [
+  "Java",
+  "Spring",
+  "Angular",
+  "Oracle",
+  "Websphere",
+  "Tomcat",
+  "Maven",
+  "Nexus",
+  "Jenkins",
+  "SonarQube",
+  "JIRA",
+  "Confluence",
+  "Mockito",
+  "Selenium",
+]
+
 [[Experience.Task.nl]]
 Task = "Backend-  en integratie ontwikkeling"
-Action = "Java, Spring"
 
 [[Experience.Task.nl]]
 Task = "Frontend ontwikkeling"
-Action = "Angular"
+
+[[Experience.Task.nl]]
+Task = "DevOps"
 
 # === micheldebree.nl ===
 
@@ -273,12 +345,27 @@ Situation.nl = """
 Verschillende in-house en on-site projecten in Java en .NET. Mijn eerst klus \
 was het onderhouden en uitbreiden van software bij Aegon Bank in een team. Op \
 mijn laatste project heb ik het meest mijn stempel gedrukt. Dit was de \
-nieuwbouw van het publieke portaal van het Landelijk Electronisch \
-Patientendossier. Doordat deze wet het niet gehaald heeft, is de software in \
-sterk afgeslankte vorm in productie genomen. \
+nieuwbouw van het publieke portaal van het Landelijk Elektronisch \
+Patiëntendossier. Doordat deze wet het niet gehaald heeft, is de software in \
+sterk afgeslankte vorm in productie genomen.
+
+Verder projecten uitgevoerd voor DELA, KPN, DPD, Saltro, Leaseloket, Ziggo, TNT \
+en Infinitas.
 """
 
-Keywords = ["Java", "dotNET"]
+Keywords = [
+  "Java",
+  "dotNET",
+  "REST",
+  "Angular",
+  "Javascript",
+  "DigiD",
+  "SAML2",
+  "SQLServer",
+  "SOAP",
+  "NHibernate",
+  "HL7",
+]
 
 # === PaC ===
 
@@ -312,7 +399,7 @@ Tijdens mijn studie informatica in Delft werkte ik parttime voor het LUMC.
 [[Experience.Task.nl]]
 Task = "Ontwikkeling van een systeem voor multimedia examens"
 Action = """
-Samen met een andere student en een chirurg met ontwikkelaars-aspiraties deed \
+Samen met een andere student en een chirurg met ontwikkelaars aspiraties deed \
 ik het ontwikkelwerk van een nieuw systeem om examens te kunnen samenstellen, \
 en af te nemen bij studenten van het LUMC. \
 """
@@ -326,7 +413,7 @@ Task = "Onderhoud van wetenschappelijke software"
 Action = """
 De software ondersteunde het onderzoek naar de biologische klok onder leiding \
 van een hoogleraar. Enerzijds werden kunstmatige dag/nacht cycli gegenereerd \
-door lampen aan te sturen vanuit een custom applicatie. Anderszijds werden \
+door lampen aan te sturen vanuit een custom applicatie. Anderzijds werden \
 bewegingen van kevers geregistreerd met sensors. De resultaten moesten \
 periodiek in een speciale grafische representatie worden uitgeprint uit de \
 software.
@@ -350,23 +437,24 @@ Institution.nl = "Het Vlietland College Leiden"
 
 [[Skills]]
 Category = "Programmeertalen"
-Keywords = ["Java21", "Javascript", "Typescript", "Bash"]
+Keywords = ["Java21", "Javascript", "Typescript", "Bash", "Python", "Golang"]
 
 [[Skills]]
-Category = "Frameworks"
+Category = "Tools & Frameworks"
 Keywords = [
   "SpringBoot",
   "Hibernate",
   "PostgreSQL",
+  "React",
+  "Git",
+  "Maven",
   "Elasticsearch",
   "Liquibase",
-  "React",
 ]
 
 [[Skills]]
 Category = "Integratie"
 Keywords = ["REST", "HALJSON", "OpenAPI", "OAuth", "JWT", "SOAP"]
-
 
 [[Skills]]
 Category = "DevOps"
@@ -379,7 +467,6 @@ Keywords = [
   "Linux",
   "Kibana",
   "Scrum",
-  "AgileSAFe",
 ]
 
 [[Skills]]
@@ -413,6 +500,22 @@ Score = 7
 Name = "Java 21"
 Score = 9
 
+[Keywords.Python]
+Name = "Python"
+Score = 6
+
+[Keywords.Golang]
+Name = "Go"
+Score = 6
+
+[Keywords.Maven]
+Name = "Maven"
+Score = 8
+
+[Keywords.Git]
+Name = "Git"
+Score = 9
+
 [Keywords.Bash]
 Name = "Bash"
 Score = 7
@@ -421,13 +524,49 @@ Score = 7
 Name = "Spring Boot"
 Score = 9
 
+[Keywords.Spring]
+Name = "Spring"
+Score = 8
+
+[Keywords.Websphere]
+Name = "Websphere"
+Score = 6
+
+[Keywords.Tomcat]
+Name = "Tomcat"
+Score = 6
+
+[Keywords.Nexus]
+Name = "Nexus"
+Score = 6
+
+[Keywords.Jenkins]
+Name = "Jenkins"
+Score = 6
+
+[Keywords.SonarQube]
+Name = "SonarQube"
+Score = 6
+
 [Keywords.Hibernate]
 Name = "Hibernate"
 Score = 9
 
+[Keywords.NHibernate]
+Name = "NHibernate"
+Score = 4
+
 [Keywords.PostgreSQL]
 Name = "PostgreSQL"
 Score = 8
+
+[Keywords.SQLServer]
+Name = "SQLServer"
+Score = 5
+
+[Keywords.Oracle]
+Name = "Oracle"
+Score = 6
 
 [Keywords.Elasticsearch]
 Name = "Elasticsearch"
@@ -440,6 +579,10 @@ Score = 8
 [Keywords.React]
 Name = "React"
 Score = 7
+
+[Keywords.Angular]
+Name = "Angular"
+Score = 5
 
 [Keywords.REST]
 Name = "REST"
@@ -460,6 +603,14 @@ Score = 7
 [Keywords.OAuth]
 Name = "OAuth"
 Score = 8
+
+[Keywords.DigiD]
+Name = "DigiD"
+Score = 0
+
+[Keywords.SAML2]
+Name = "SAML2"
+Score = 4
 
 [Keywords.SOAP]
 Name = "SOAP"
@@ -513,6 +664,10 @@ Score = 9
 Name = "Cucumber"
 Score = 8
 
+[Keywords.Selenium]
+Name = "Selenium"
+Score = 8
+
 [Keywords.Wiremock]
 Name = "Wiremock"
 Score = 8
@@ -533,6 +688,86 @@ Score = 7
 Name = ".NET"
 Score = 0
 
+[Keywords.HL7]
+Name = "HL7"
+Score = 4
+
+[Keywords.DMN]
+Name = "DMN"
+Score = 4
+
+[Keywords.Drools]
+Name = "Drools"
+Score = 6
+
+[Keywords.JIRA]
+Name = "JIRA"
+Score = 8
+
+[Keywords.Confluence]
+Name = "Confluence"
+Score = 6
+
 [Keywords.VisualBasic]
 Name = "Visual Basic"
 Score = 0
+
+[Keywords.WSO2]
+Name = "WSO2"
+Score = 0
+
+[Keywords.Ansible]
+Name = "Ansible"
+Score = 5
+
+[Keywords.JBoss]
+Name = "JBoss"
+Score = 5
+
+[Keywords.JSF]
+Name = "JSF"
+Score = 4
+
+[Keywords.OpenLDAP]
+Name = "OpenLDAP"
+Score = 5
+
+[Keywords.Ruby]
+Name = "Ruby"
+Score = 6
+
+[Keywords.MySQL]
+Name = "MySQL"
+Score = 6
+
+[Keywords.MongoDB]
+Name = "MongoDB"
+Score = 4
+
+[Keywords.Graylog]
+Name = "Graylog"
+Score = 4
+
+[Keywords.HAProxy]
+Name = "HAProxy"
+Score = 5
+
+[Keywords.Squid]
+Name = "Squid"
+Score = 5
+
+[Keywords.Apache]
+Name = "Apache"
+Score = 5
+
+[Keywords.NGINX]
+Name = "NGINX"
+Score = 6
+
+[Keywords.Vagrant]
+Name = "Vagrant"
+Score = 6
+
+[Keywords.OpenStack]
+Name = "OpenStack"
+Score = 4
