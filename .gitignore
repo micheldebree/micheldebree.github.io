@@ -4,3 +4,4 @@ resources
 *.orig
 .obsidian
 .DS_Store
+cv/*.pdf

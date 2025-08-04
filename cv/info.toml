@@ -25,7 +25,6 @@ label = "www.micheldebree.nl"
 link = "https://github.com/micheldebree"
 label = "github.com/micheldebree"
 
-
 [personal.icon]
 address = "house"
 telephone = "phone"
@@ -51,11 +50,13 @@ skills = "cogs"
 fill_color = "#f4f1eb"
 paper_size = "a4"
 accent_color = "#d4d2cc"
-# deafult value is 71%
+# default value is 71%
 left_pane_width = "71%"
 
 [layout.text]
 font = "Inter"
+# font_monospace = "Jetbrains Mono"
+font_monospace = "Iosevka Term"
 # font = "Jost"
 # font = "Urbanist"
 # font = "Space Grotesk"

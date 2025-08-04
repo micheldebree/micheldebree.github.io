@@ -7,6 +7,8 @@
 #let language = meta.personal.language
 #let include-icon = meta.personal.include_icons
 #let accent-color = meta.layout.accent_color
+#let font_monospace = meta.layout.text.font_monospace
+#let fill-color = meta.layout.fill_color
 #let multicol = true
 #let alignment = left
 
@@ -35,17 +37,16 @@
 
 #for skills in data.Skills [
 
-  === #skills.Category
+  === #emph(skills.Category)
 
   #skill-entry(
-    accent-color,
+    fill-color,
     multicol,
     alignment,
     skills: skills
       .Keywords
       .map(k => data.Keywords.at(k))
-      .map(k => k.Name + renderStars(k.Score)),
+      .map(k => (k.Name + renderStars(k.Score))),
   )
-
 ]
 

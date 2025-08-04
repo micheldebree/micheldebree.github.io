@@ -56,7 +56,7 @@ pygmentscodefencesguesssyntax = true
     name = "Curriculum Vitae"
     icon = "fa fa-2x fa-address-card"
     weight = 1
-    url = "/resume"
+    url = "/CV-Michel_de_Bree.pdf"
 [[params.social]]
     name = "Email"
     icon = "fa fa-2x fa-envelope"
@@ -99,9 +99,9 @@ id = "G-GRF7VLVEGM"
             #url = "about/"
 
             [[languages.en.menu.main]]
-            name = "Resumé"
+            name = "CV"
             weight = 1
-            url = "resume/"
+            url = "/CV-Michel_de_Bree.pdf"
 
             [[languages.en.menu.main]]
             name = "Blog"

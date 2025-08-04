@@ -30,9 +30,9 @@
 )
 
 #let meta = toml("./info.toml")
+#set text(lang: meta.personal.language)
+// #set par(justify: true)
 
-// #let meta.personal = ( firstname: "Aap" )
-// #let data = yaml("./cv.yaml")
 #let data = toml("./michel_de_bree.toml")
 #(meta.personal.first_name = data.Personal.Name.First)
 #(meta.personal.last_name = data.Personal.Name.Last)
