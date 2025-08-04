@@ -1,11 +1,22 @@
+# brew install typst tinymist
+
+IN=cv.typ
+OUT=CV-Michel_de_Bree.pdf
+
+$(OUT): $(IN) michel_de_bree.toml  
+	typst compile $< $@
+	pdfcpu optimize $@
+	pdfcpu validate -m strict -l $@
+
 .PHONY: test
-test: 
-	tinymist preview cv.typ --partial-rendering
+test: $(IN)
+	tinymist preview $< --partial-rendering
 
 .PHONY: watch
-watch: cv.pdf 
+watch: $(CV)
 	open $<
-	typst watch cv.typ
+	typst watch $(IN)
 
-cv.pdf: cv.typ michel_de_bree.toml  
-	typst compile $<
+.PHONY: clean
+clean:
+	rm $(OUT)
