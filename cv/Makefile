@@ -1,7 +1,7 @@
 # brew install typst tinymist
 
 IN=cv.typ
-OUT=CV-Michel_de_Bree.pdf
+OUT=cv-michel_de_bree.pdf
 
 $(OUT): $(IN) michel_de_bree.toml  
 	typst compile $< $@
@@ -19,4 +19,4 @@ watch: $(CV)
 
 .PHONY: clean
 clean:
-	rm $(OUT)
+	rm *.pdf

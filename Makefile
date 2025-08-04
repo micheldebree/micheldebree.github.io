@@ -1,5 +1,5 @@
-CV_SRC=./cv/CV-Michel_de_Bree.pdf
-CV_DEST=./static/CV-Michel_de_Bree.pdf
+CV_SRC=./cv/cv-michel_de_bree.pdf
+CV_DEST=./static/cv-michel_de_bree.pdf
 QR=./static/QR.png
 
 .PHONY: test
@@ -52,4 +52,5 @@ clean:
 	rm -rf docs
 	rm -rf resources
 	rm -rf public
-	rm -rf $(CV)
+	rm -rf $(CV_DEST)
+	rm -rf $(QR)
