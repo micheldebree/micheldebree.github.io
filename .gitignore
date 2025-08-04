@@ -5,3 +5,4 @@ resources
 .obsidian
 .DS_Store
 cv/*.pdf
+build

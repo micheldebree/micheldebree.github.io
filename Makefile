@@ -1,4 +1,5 @@
-CV_SRC=./cv/cv-michel_de_bree.pdf
+CV_HOME=./micheldebree.nl/cv
+CV_SRC=$(CV_HOME)/cv-michel_de_bree.pdf
 CV_DEST=./static/cv-michel_de_bree.pdf
 QR=./static/QR.png
 
@@ -36,7 +37,7 @@ $(CV_DEST): $(CV_SRC)
 
 .PHONY: $(CV_SRC)
 $(CV_SRC):
-	cd ./cv && make
+	cd $(CV_HOME) && make
 
 $(QR):
 	qrencode -l L -s 3 -o "$@" https://www.micheldebree.nl/michel_de_bree.vcf
