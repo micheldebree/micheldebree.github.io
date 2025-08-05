@@ -91,6 +91,7 @@ Keywords = [
   "Cucumber",
   "Wiremock",
   "JMeter",
+  "SonarQube",
   "Jest",
   "ReactTestingLibrary",
 ]
@@ -142,7 +143,17 @@ Uitkomst was dat wij het wekenlange traject voor onze applicatie niet zijn \
 ingegaan, en de ongebruikte integratie logica hebben verwijderd. \
 """
 
-# === Knooppunt ===
+[[Experience.Task.nl]]
+Task = """
+DevOps werkzaamheden m.b.t. ontwikkelstraat en productie. \
+"""
+
+Action = """Ontwikkeling en configuratie van Gitlab CI pipelines, Helm charts, \
+Docker images, SonarQube, reporting, performance testen. Analyse en mitigatie \
+van incidenten.
+"""
+
+# === Knooppunt 
 
 [[Experience]]
 Title.nl = "Knooppunt voor API toegang en autorisatie"
@@ -150,7 +161,6 @@ Company = "Digitaal Stelsel Omgevingswet (Rijkswaterstaat)"
 Location = "Den Haag, Rotterdam"
 Start = "2016"
 End = "2018"
-
 
 Situation.nl = """
 Binnen het Digitaal Stelsel Omgevingswet worden alle API's aangeboden via het \
@@ -256,7 +266,7 @@ Keywords = [
   "Apache",
   "Linux",
   "Vagrant",
-  "OpenStack"
+  "OpenStack",
 ]
 
 [[Experience.Task.nl]]
@@ -413,6 +423,26 @@ bewegingen van kevers geregistreerd met sensors. De resultaten moesten \
 periodiek in een speciale grafische representatie worden uitgeprint uit de \
 software.
 """
+
+# === Hobby ===
+#
+# [[Experience]]
+# Title.nl = "Hobby ontwikkelaar"
+# Company = "Thuis"
+# Location = "Leiden, Delft, Den Haag, Nootdorp"
+# Start = "1988"
+# End = "heden"
+#
+# Situation.nl = """
+# Mijn eerste programmeerervaring heb ik opgedaan op de \
+# rekenmachine van mijn vader. Daarna ben ik verder gegaan op een Commodore 64, \
+# en ben nooit opgehouden om voor mijn plezier te programmeren. Op 17 jarige \
+# leeftijd verkocht ik mijn eerste software aan een duits disk magazine. \
+# Na de aanschaf van een PC heb ik af en toe mijn vader geholpen bij het maken \
+# van bouwkundige software voor zijn werk. Tegenwoordig vind ik het ook leuk \
+# om creatief bezig te zijn binnen de beperkingen van mijn eerste liefde, de \
+# Commodore 64, voornamelijk door het maken van muziek.
+# """
 
 # === Education
 
