@@ -145,12 +145,12 @@ ingegaan, en de ongebruikte integratie logica hebben verwijderd. \
 
 [[Experience.Task.nl]]
 Task = """
-DevOps werkzaamheden m.b.t. ontwikkelstraat en productie. \
+DevOps m.b.t. ontwikkelstraat en productie. \
 """
 
 Action = """Ontwikkeling en configuratie van Gitlab CI pipelines, Helm charts, \
-Docker images, SonarQube, reporting, performance testen. Analyse en mitigatie \
-van incidenten.
+Docker images, SonarQube, reporting, performance testen en tuning. Analyse en mitigatie \
+van incidenten. Overleg met externe onderhoudbaarheid en veiligheid auditors.
 """
 
 # === Knooppunt 
