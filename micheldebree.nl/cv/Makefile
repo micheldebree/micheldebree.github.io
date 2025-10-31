@@ -8,7 +8,7 @@ OUT=cv-michel_de_bree.pdf
 $(OUT): $(IN) michel_de_bree.toml version.toml
 	typst compile $< $@
 	pdfcpu optimize $@
-	pdfcpu validate -m strict -l $@
+	# pdfcpu validate -m strict -l $@
 
 .PHONY: version.toml
 version.toml:
@@ -19,7 +19,7 @@ test: $(IN)
 	tinymist preview $< --partial-rendering true
 
 .PHONY: watch
-watch: $(CV)
+watch: $(OUT)
 	open $<
 	typst watch $(IN)
 

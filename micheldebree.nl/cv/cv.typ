@@ -1,7 +1,7 @@
 #set document(
-  title: "CV Michel de Bree v" + text(toml("./version.toml").Version),
+  title: "CV Michel de Bree versie " + text(toml("./version.toml").Version),
   author: "Michel de Bree",
-  description: "Ervaren Java ontwikkelaar met een scherp oog voor kwaliteit",
+  description: "Ervaren Java ontwikkelaar",
   keywords: (
     "Java",
     "Developer",
